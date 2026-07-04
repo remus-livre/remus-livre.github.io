@@ -105,5 +105,5 @@ O ecossistema é organizado em quatro camadas:
 *   **🧭 [Trilhas](./trilhas/index.md):** Roteiros sugeridos por objetivos pedagógicos.
 
 ---
-*Este repositório é parte integrante da pesquisa de doutorado desenvolvida no PPGA
+*Este repositório é parte integrante da pesquisa do NECT.
 >>>>>>> 88e8abb2085e1a9683d3794a192eb885348621f8
