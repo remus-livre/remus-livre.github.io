@@ -1,4 +1,4 @@
-# REMUS Livre
+    # REMUS Livre
 
 **Repositório de Recursos Educacionais Abertos para Educação Musical**
 
@@ -40,4 +40,4 @@ Todo o conteúdo deste repositório está sob licença **Creative Commons BY-SA 
 
 ---
 
-**Última atualização:** 17: 29 julho de 2026
+**Última atualização:** 18:22 julho de 2026
