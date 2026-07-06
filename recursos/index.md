@@ -1,14 +1,34 @@
-# 📚 Recursos: Ecossistema de Criação Sonora
+# Recursos
 
-Nesta seção, você encontra a curadoria de ferramentas digitais do **REMUS Livre**, analisadas sob uma perspectiva crítica e emancipadora.
-
-## 🗂 Categorias por Função Pedagógica:
-
-*   **[Notação Musical](./notacao.md)**: Escrita, leitura e lógica musical.
-*   **[Percepção e Cognição](./percepcao.md)**: Treinamento auditivo e iniciação musical.
-*   **[Produção Sonora](./producao-sonora.md)**: DAWs, edição e engenharia de áudio.
-*   **[Programação Musical](./sonicpi.md)**: Live coding e pensamento computacional.
+Fichas técnicas e pedagógicas de softwares e apps para educação musical e STEAM.
 
 ---
-### 💡 Guia de Curadoria
-Priorizamos o **Software Livre** por permitir que o estudante "abra a máquina", compreenda sua lógica algorítmica e promova a **individuação técnica** [1-3].
+
+## Categorias
+
+### 🎼 Notação Musical
+
+- [MuseScore](musescore.md) – Editor de partituras livre e colaborativo.
+- [LilyPond](lilypond.md) – Sistema de engraving musical baseado em texto.
+
+### 🎛️ Produção e Edição de Áudio
+
+- [Audacity](audacity.md) – Editor de áudio para gravação, edição e análise espectral.
+- [LMMS](lmms.md) – Estação de áudio digital para produção musical e beats.
+- [Ardour](ardour.md) – DAW profissional para gravação e mixagem multipista.
+- [Hydrogen](hydrogen.md) – Drum machine e sequenciador de padrões rítmicos.
+
+### 🧠 Pensamento Computacional e STEAM
+
+- [Sonic Pi](sonicpi.md) – Live coding musical com Ruby.
+- [GCompris](gcompris.md) – Atividades educacionais lúdicas com foco em música.
+- [GNU Solfege](gnusolfegesonic-pi.md) – Treinamento auditivo e percepção musical.
+
+### 📚 Materiais de Apoio
+
+- [Notação](notacao.md) – Guia sobre leitura e escrita musical.
+- [Produção Sonora](producao-sonora.md) – Roteiros e projetos para criação musical.
+
+---
+
+*Atualizado em julho de 2026.* 16:48
