@@ -1,9 +1,16 @@
-# 📚 Categoria: Produção Sonora
+# 🎛️ Produção e Edição de Áudio
 
-Esta categoria reúne ferramentas para gravação, edição e criação de áudio digital, fundamentais para a "Engenharia do Som" no ecossistema STEAM.
+Softwares para produção musical, gravação, edição e análise de áudio.
 
-## Fichas REMUS disponíveis:
+---
 
-*   **[REMUS-004: Audacity](./audacity.md)** - O laboratório de física acústica e edição de áudio livre.
-*   **[REMUS-005: LMMS](./lmms.md)** - Produção de batidas e síntese sonora (Alternativa ao FL Studio).
-*   **[REMUS-006: Ardour](./ardour.md)** - Estação de trabalho profissional para gravação multipista.
+## Softwares disponíveis
+
+- **[Audacity](audacity.md)** – Editor de áudio para gravação, edição e análise espectral.
+- **[LMMS](lmms.md)** – Estação de áudio digital para produção musical e beats.
+- **[Ardour](ardour.md)** – DAW profissional para gravação e mixagem multipista.
+- **[Hydrogen](hydrogen.md)** – Drum machine e sequenciador de padrões rítmicos.
+
+---
+
+*Mais fichas em desenvolvimento.*
