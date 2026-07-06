@@ -317,3 +317,4 @@ Mais do que substituir soluções proprietárias, o Ardour contribui para a form
 * Primeira publicação.
 * Estrutura editorial alinhada ao padrão do REMUS Livre.
 * Conteúdo revisado com base na documentação oficial.
+16:00

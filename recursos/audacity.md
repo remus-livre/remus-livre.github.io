@@ -327,3 +327,4 @@ Mais do que um editor de áudio, constitui uma ferramenta de registro, documenta
 * Primeira publicação.
 * Estrutura editorial alinhada ao padrão do REMUS Livre.
 * Revisão inicial baseada na documentação oficial do projeto.
+16:00
