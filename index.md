@@ -30,5 +30,4 @@ O ecossistema é organizado em quatro camadas:
 ---
 
 *Este repositório é parte integrante da*
-Versão final do REMUS Livre 6_jul-16:00.
-
+Versão final do REMUS Livre 6_jul-16:15.
