@@ -1,3 +1,6 @@
+---
+---
+
 ### Repositório de Educação Musical, Recursos Educacionais Abertos e Uso de Software Livre
 
 > "Tecnologias abertas para uma Educação Musical criativa, colaborativa e inclusiva."
@@ -10,10 +13,10 @@ O **REMUS Livre** é um Repositório de Recursos Educacionais Abertos (REA) conc
 
 Nossa curadoria é orientada por quatro núcleos epistemológicos:
 
-1.  **Pedagogia da Autonomia (Freire):** A tecnologia como espaço de produção de conhecimento e libertação.
-2.  **Construcionismo (Papert):** O software como "micromundo" e "objeto para pensar".
-3.  **Aprendizagem Criativa (Resnick):** Estruturação através dos 4 Ps (Projetos, Paixão, Pares e Play).
-4.  **Individuação Técnica (Simondon):** A superação da "caixa-preta" tecnológica através da compreensão da gênese do objeto técnico.
+1. **Pedagogia da Autonomia (Freire):** A tecnologia como espaço de produção de conhecimento e libertação.
+2. **Construcionismo (Papert):** O software como "micromundo" e "objeto para pensar".
+3. **Aprendizagem Criativa (Resnick):** Estruturação através dos 4 Ps (Projetos, Paixão, Pares e Play).
+4. **Individuação Técnica (Simondon):** A superação da "caixa-preta" tecnológica através da compreensão da gênese do objeto técnico.
 
 ## 🧭 Como Navegar
 
@@ -26,4 +29,5 @@ O ecossistema é organizado em quatro camadas:
 
 ---
 
-*Este repositório é parte integrante da pesquisa do ....*
+*Este repositório é parte integrante da*
+Versão final do REMUS Livre 6_jul-15:00.
