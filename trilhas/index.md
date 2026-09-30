@@ -1,3 +1,8 @@
+---
+layout: default
+title: Trilhas
+---
+
 # Trilhas
 
 Roteiros sugeridos por objetivos pedagógicos, integrando recursos, experiências e fundamentos do REMUS Livre.
