@@ -1,3 +1,8 @@
+---
+layout: default
+title: Experiências
+---
+
 # Experiências
 
 Relatos, sequências didáticas e roteiros práticos desenvolvidos no REMUS Livre.
@@ -60,6 +65,7 @@ As experiências aqui documentadas são fruto da pesquisa de doutorado e do arti
 **BNCC:** Desenvolve projetos baseados nos interesses dos estudantes (Brasil, 2018).
 
 **Materializa:** A filosofia da técnica de Simondon e a passagem do uso instrumental à compreensão crítica.
+
 
 ---
 
