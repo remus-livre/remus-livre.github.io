@@ -27,7 +27,12 @@
 }
 
 body {
+  font-family: 'Alegreya', Georgia, serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
   font-family: 'Alegreya SC', Georgia, serif;
+}
   background-color: var(--remus-background);
   color: var(--remus-text);
   line-height: 1.7;
