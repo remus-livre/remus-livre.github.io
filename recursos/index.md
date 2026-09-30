@@ -1,4 +1,8 @@
-    # Recursos
+ ---
+layout: default
+title: Recursos
+---
+# Recursos
 
     Fichas técnicas e pedagógicas de softwares e apps para educação musical e STEAM.
 
