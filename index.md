@@ -1,4 +1,9 @@
-    # REMUS Livre
+---
+layout: default
+title: REMUS Livre
+---
+
+# REMUS Livre
 
 **Repositório de Recursos Educacionais Abertos para Educação Musical**
 
@@ -10,6 +15,7 @@ Bem-vindo ao REMUS Livre! Este catálogo reúne softwares livres e educacionais 
 
 - 🎼 **[Notação Musical](recursos/notacao.md)** – MuseScore, LilyPond, TuxGuitar
 - 🎧 **[DAWs (Estações de Áudio Digitais)](recursos/producao-sonora.md)** – LMMS, Ardour, Audacity
+- 🎛️ **[NIME (Novas Interfaces para Expressão Musical)](recursos/nime/index.md)** – Arduino, Theremin de Luz, Pure Data, VCV Rack
 - 🤖 **[IA Musical](recursos/ia-musical.md)** – Moises, AIVA, Magenta *(em breve)*
 - 🧠 **[STEAM](recursos/steam.md)** – Criação, tecnologia e arte integradas *(em breve)*
 - 📚 **[Educação Musical Geral](recursos/educacao-musical.md)** – GNU Solfege, GCompris, LenMus *(em breve)*
@@ -40,4 +46,4 @@ Todo o conteúdo deste repositório está sob licença **Creative Commons BY-SA 
 
 ---
 
-**Última atualização:** 18:22 julho de 2026
+*Este repositório é parte integrante da pesquisa do NECT.*
