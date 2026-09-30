@@ -1,3 +1,8 @@
+---
+layout: default
+title: Biblioteca
+---
+
 # Biblioteca
 
 Base teórica comentada e documentos para aprofundamento nos fundamentos do REMUS Livre.
