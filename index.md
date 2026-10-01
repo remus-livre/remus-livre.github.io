@@ -32,7 +32,7 @@ Nossa curadoria é orientada por quatro núcleos epistemológicos:
 
 O REMUS Livre está organizado em **quatro camadas complementares**, que se articulam para oferecer uma experiência completa de curadoria, prática e reflexão:
 
-### 📚 Recursos
+### 📚 [Recursos](recursos/)
 
 Fichas técnicas e pedagógicas de softwares e apps para educação musical e STEAM. Os recursos estão organizados nas seguintes categorias:
 
@@ -43,15 +43,15 @@ Fichas técnicas e pedagógicas de softwares e apps para educação musical e ST
 - 🧠 **STEAM** – Sonic Pi, GCompris, GNU Solfege
 - 📚 **Educação Musical Geral** – GNU Solfege, GCompris, LenMus
 
-### 🧪 Experiências
+### 🧪 [Experiências](experiencias/)
 
 Relatos, sequências didáticas e roteiros práticos desenvolvidos no REMUS Livre. Inclui propostas como o Ecossistema de Portfólio Sonoro STEAM, o Jogo "O Enigma das Frequências", a DAW Minimalista "Luthieria Digital", a Sequência Didática "Do Enigma à NIME", o Theremin de Luz e o Diário de Bordo.
 
-### 📖 Biblioteca
+### 📖 [Biblioteca](biblioteca/)
 
 Base teórica comentada e documentos para aprofundamento nos fundamentos do REMUS Livre. Inclui textos sobre a BNCC, Freire, Papert, Resnick e Simondon.
 
-### 🧭 Trilhas
+### 🧭 [Trilhas](trilhas/)
 
 Roteiros sugeridos por objetivos pedagógicos, que articulam recursos, experiências e fundamentos em percursos de aprendizagem coerentes.
 
