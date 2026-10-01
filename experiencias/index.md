@@ -66,6 +66,76 @@ As experiências aqui documentadas são fruto da pesquisa de doutorado e do arti
 
 **Materializa:** A filosofia da técnica de Simondon e a passagem do uso instrumental à compreensão crítica.
 
+---
+
+### 📚 Sequência Didática: Do Enigma à NIME
+
+> Roteiro completo em 6 encontros que conduz o estudante da investigação de um objeto opaco à construção de uma interface NIME com Arduino.
+
+**Objetivo:** Percorrer os três movimentos pedagógicos (objeto opaco → cotidiáfonos → prototipagem eletrônica) com atividades detalhadas, materiais e orientações para o Diário de Bordo.
+
+**Encontros:**
+1. O Enigma da Caixa de Música (investigação e hipóteses)
+2. Das Hipóteses aos Primeiros Protótipos (construção)
+3. Refinamento e Documentação (debugging criativo)
+4. Desmontagem Investigativa e Escuta Ativa (materialidade e escuta)
+5. Introdução aos Sensores (eletrônica criativa)
+6. Hibridização – Criação das Interfaces NIME (performance e autoria)
+
+**Conexões STEAM:**
+- **Ciência:** Acústica, física do som, luz e som.
+- **Tecnologia:** Programação, Arduino, software livre.
+- **Engenharia:** Circuitos, sensores, prototipagem.
+- **Artes:** Criação sonora, performance, escuta ativa.
+- **Matemática:** Frequências, proporções, lógica.
+
+**Materializa:** A individuação técnica (Simondon) e a aprendizagem criativa (Resnick).
+
+---
+
+### 💡 Theremin de Luz
+
+> Interface NIME que transforma luz e sombra em som, usando Arduino, LDR e buzzer.
+
+**Objetivo:** Construir um instrumento musical experimental, compreendendo a relação entre gesto, luz e som.
+
+**Materiais:**
+- 1 Arduino Uno (ou similar)
+- 1 LDR (fotoresistor)
+- 1 resistor de 10kΩ
+- 1 buzzer ou alto-falante
+- Jumpers e protoboard
+
+**Conexões STEAM:**
+- **Ciência:** Luz, resistência elétrica, frequência sonora.
+- **Tecnologia:** Programação, leitura analógica.
+- **Engenharia:** Circuitos, sensores.
+- **Artes:** Performance, improvisação.
+
+**Materializa:** A passagem do objeto opaco à luthieria digital.
+
+---
+
+### 📝 Diário de Bordo
+
+> Dispositivo metacognitivo para registro de hipóteses, erros e descobertas ao longo do percurso.
+
+**Objetivo:** Documentar o processo criativo, valorizando o erro como dado de investigação.
+
+**O que registrar:**
+- Hipóteses iniciais
+- Desenhos esquemáticos
+- O que "não soou como o esperado"
+- Soluções encontradas
+- Códigos que "não rodaram"
+- Ajustes e reformulações
+
+**Conexões STEAM:**
+- **Tecnologia:** Registro digital (blogs, portfólios).
+- **Artes:** Documentação da criação sonora.
+- **Ciência/Matemática:** Registro de hipóteses e resultados.
+
+**Materializa:** A curiosidade epistemológica (Freire) e o debugging criativo (Papert).
 
 ---
 
