@@ -5,6 +5,11 @@ title: Arduino
 
 # Arduino
 
+![Arduino Uno](../imagens/nime/arduino.jpg)
+
+- **Categoria:** NIME / Prototipagem Eletrônica
+...
+
 - **Categoria:** NIME / Prototipagem Eletrônica
 - **Licença:** Open Source (hardware e software livres)
 - **Site oficial:** [arduino.cc](https://www.arduino.cc)
