@@ -1,315 +1,205 @@
 ---
-
+layout: default
 title: LilyPond
-description: Sistema livre de gravação tipográfica de partituras baseado em linguagem textual.
-category: Notação Musical
-slug: lilypond
-version: 1.0.0
-status: Publicado
------------------
+---
 
 # LilyPond
 
-> Sistema de gravação tipográfica musical (music engraving) que utiliza uma linguagem textual para produzir partituras de alta qualidade tipográfica.
+![LilyPond](../../imagens/notacao/notacao-lilypond.jpg)
+
+*Interface do LilyPond.*
+
+- **Categoria:** Notação Musical
+
+> Sistema de engraving musical baseado em texto, que produz partituras de altíssima qualidade tipográfica.
 
 ---
 
-# Resumo Executivo
+## Resumo Executivo
 
-O **LilyPond** é um software livre dedicado à produção de partituras com qualidade editorial. Diferentemente dos editores gráficos tradicionais, a escrita musical é realizada por meio de um arquivo de texto, que é processado pelo programa para gerar partituras em formatos como PDF e SVG.
+O **LilyPond** é um software livre de notação musical que se diferencia por utilizar uma abordagem baseada em texto: em vez de clicar e arrastar notas em uma interface gráfica, o usuário escreve código em um arquivo de texto, que é compilado em uma partitura de qualidade profissional.
 
-Essa abordagem aproxima a produção musical do universo da programação e da editoração eletrônica, oferecendo controle preciso sobre a aparência da partitura, reprodutibilidade dos documentos e facilidade de versionamento.
-
-Embora apresente uma curva de aprendizagem maior que a de editores gráficos, o LilyPond tornou-se uma referência para compositores, pesquisadores, editoras e músicos que buscam elevado padrão tipográfico.
+Sua proposta favorece a precisão, a reprodutibilidade e a integração com fluxos de trabalho baseados em programação, sendo amplamente utilizado em contextos acadêmicos, editoração musical e projetos que exigem alto padrão tipográfico.
 
 ---
 
-# Visão Geral
+## Aspectos Técnicos
 
-O objetivo do LilyPond não é reproduzir uma folha de papel na tela para edição visual.
+**Categoria:** Editor de Partituras (baseado em texto)
 
-Sua proposta é diferente:
+**Licença:** Código aberto (GPL)
 
-o usuário descreve a música em um arquivo de texto, e o programa interpreta esse código para produzir automaticamente uma partitura seguindo regras tradicionais de gravação musical.
-
-Essa filosofia reduz ajustes manuais e privilegia consistência gráfica, tornando o processo semelhante ao utilizado por sistemas como LaTeX na editoração científica.
-
----
-
-# Histórico do Projeto
-
-O projeto foi iniciado em **1996** por **Han-Wen Nienhuys** e **Jan Nieuwenhuizen**, após experiências anteriores com ferramentas de editoração musical.
-
-Desde então, o LilyPond evoluiu como um projeto de software livre mantido por colaboradores internacionais e integrado ao ecossistema GNU.
-
-Ao longo de seu desenvolvimento, consolidou-se como uma das principais referências em gravação tipográfica musical, sendo amplamente utilizado para publicação de partituras em ambiente acadêmico e editorial.
-
----
-
-# Licenciamento
-
-O LilyPond é distribuído sob a licença **GNU General Public License (GPL)**.
-
-Essa licença garante aos usuários liberdade para:
-
-* utilizar o software;
-* estudar seu funcionamento;
-* modificar o código-fonte;
-* redistribuir versões modificadas respeitando os termos da GPL.
-
-Essa característica favorece sua adoção em projetos educacionais e iniciativas voltadas ao conhecimento aberto.
-
----
-
-# Ecossistema
-
-O LilyPond integra um conjunto de ferramentas voltadas à produção editorial de partituras.
-
-Entre elas destacam-se:
-
-* MusicXML;
-* MIDI;
-* LaTeX;
-* Frescobaldi (editor dedicado ao LilyPond);
-* Git para versionamento;
-* ambientes colaborativos de desenvolvimento.
-
-Esse ecossistema permite integrar composição, documentação e publicação em um único fluxo de trabalho.
-
----
-
-# Aspectos Técnicos
-
-**Categoria:** Sistema de gravação tipográfica musical
-
-**Licença:** GPL
-
-**Sistemas operacionais**
+**Sistemas operacionais:**
 
 * Linux
 * Windows
 * macOS
-* FreeBSD
 
-**Entrada**
+**Linguagem:**
 
-* arquivos `.ly`
-* MusicXML (por ferramentas auxiliares)
-* MIDI (conversão)
+* LilyPond (linguagem própria, baseada em texto)
 
-**Saída**
+**Formatos suportados**
+
+### Entrada
+
+* LilyPond (.ly)
+* MusicXML (via conversão)
+
+### Exportação
 
 * PDF
-* SVG
 * PNG
-* PostScript
+* SVG
 * MIDI
 
----
+### Recursos principais
 
-# Por dentro da ferramenta
-
-O LilyPond possui uma arquitetura diferente da maioria dos programas de notação musical.
-
-Seu núcleo é desenvolvido principalmente em **C++**, enquanto sua linguagem de extensão utiliza **GNU Guile (Scheme)**.
-
-Durante o processamento, o programa interpreta o arquivo textual, analisa sua estrutura musical e aplica automaticamente regras de espaçamento, posicionamento de elementos, ligaduras, articulações e demais convenções tipográficas.
-
-Essa separação entre conteúdo musical e apresentação aproxima o LilyPond das linguagens de marcação utilizadas na produção científica e técnica.
-
----
-
-# Recursos Principais
-
-* escrita musical baseada em texto;
-* elevada qualidade tipográfica;
-* geração automática de partituras;
-* suporte a grandes formações instrumentais;
-* produção de partes individuais;
-* exportação para múltiplos formatos;
-* integração com sistemas de controle de versões.
+* Notação musical tradicional;
+* Alta qualidade tipográfica;
+* Partituras orquestrais;
+* Tablaturas;
+* Percussão;
+* Letras e cifras;
+* Integração com LaTeX;
+* Reprodutibilidade (mesmo código, mesmo resultado).
 
 ---
 
-# Aplicações na Educação Musical
+## Aplicações na Educação Musical
 
-O LilyPond pode ser utilizado em atividades como:
+O LilyPond pode ser utilizado em diferentes níveis de ensino.
 
-* introdução à escrita musical digital;
-* preparação de materiais didáticos;
-* composição;
+Entre as aplicações mais comuns destacam-se:
+
+* elaboração de exercícios;
+* produção de material didático;
+* composição algorítmica;
 * análise musical;
-* edição de repertórios;
-* projetos de pesquisa;
-* produção de materiais para cursos superiores.
+* editoração de partituras;
+* ensino de lógica e estrutura musical;
+* projetos interdisciplinares com programação.
 
-Sua utilização também favorece o desenvolvimento do pensamento computacional ao aproximar música e linguagem de programação.
-
----
-
-# Escola Pública
-
-Embora não seja a ferramenta mais indicada para iniciantes, o LilyPond pode desempenhar papel importante em projetos de aprofundamento.
-
-Entre seus potenciais destacam-se:
-
-* utilização sem custos de licenciamento;
-* funcionamento em diferentes plataformas;
-* documentação aberta;
-* integração com laboratórios de informática;
-* incentivo à autonomia tecnológica.
+Sua abordagem favorece a compreensão da música como estrutura formal e lógica.
 
 ---
 
-# Formação de Professores
+## Escola Pública
 
-Na formação inicial e continuada, o LilyPond possibilita discutir:
+Por ser gratuito e funcionar em diferentes sistemas operacionais, o LilyPond apresenta excelente potencial para escolas públicas.
 
-* padrões abertos;
-* documentação técnica;
-* automação da produção de partituras;
-* cultura do software livre;
-* versionamento de materiais didáticos.
+Entre suas vantagens:
 
----
-
-# STEAM
-
-O LilyPond favorece atividades interdisciplinares envolvendo:
-
-* Música;
-* Computação;
-* Matemática;
-* Editoração;
-* Linguagens formais;
-* Ciência de Dados aplicada à música.
+* ausência de custos com licenciamento;
+* instalação em laboratórios escolares;
+* utilização em computadores de baixo custo;
+* ampla documentação produzida pela comunidade;
+* possibilidade de integração com projetos de programação.
 
 ---
 
-# Inteligência Artificial
+## STEAM
 
-O LilyPond pode integrar fluxos de trabalho envolvendo IA.
+O LilyPond dialoga com diferentes áreas do conhecimento.
 
-Entre as possibilidades:
+Pode integrar projetos envolvendo:
 
-* geração de código LilyPond a partir de descrições musicais;
-* conversão de análises harmônicas em partituras;
-* automatização de exercícios;
-* documentação de experimentos musicais.
+* Matemática (proporções, lógica, algoritmos);
+* Computação (programação, compilação);
+* Design gráfico (tipografia);
+* Produção multimídia;
+* História da Música.
 
-Nesses cenários, a IA atua como ferramenta de apoio, enquanto a revisão musical permanece sob responsabilidade do usuário.
+Essas possibilidades favorecem propostas interdisciplinares e projetos baseados em resolução de problemas.
 
 ---
 
-# Primeira Experiência
+## Inteligência Artificial
 
-Uma atividade inicial consiste em criar uma pequena melodia utilizando apenas notas e compassos básicos.
+Embora o LilyPond não seja uma ferramenta de IA, pode ser integrado a fluxos de trabalho que utilizam inteligência artificial.
+
+Exemplos:
+
+* geração de código LilyPond;
+* conversão de formatos;
+* análise musical;
+* criação de exercícios personalizados.
+
+A IA deve atuar como ferramenta de apoio ao processo criativo e pedagógico, preservando a autoria e a mediação docente.
+
+---
+
+## Primeira Experiência
+
+Uma atividade inicial pode consistir na criação de uma pequena melodia em LilyPond.
 
 Objetivos:
 
-* compreender a sintaxe da linguagem;
-* gerar a primeira partitura;
-* interpretar mensagens de erro;
+* conhecer a sintaxe básica;
+* inserir notas;
+* alterar figuras rítmicas;
+* utilizar pausas;
+* compilar a partitura;
 * exportar em PDF.
 
-Essa atividade evidencia a diferença entre um editor gráfico e um sistema baseado em linguagem textual.
+Tempo estimado: 40 a 60 minutos.
 
 ---
 
-# Caderno de Bordo
+## Caderno de Bordo
 
-Durante a utilização recomenda-se registrar:
+Durante o uso do LilyPond, recomenda-se registrar:
 
 * dificuldades encontradas;
-* comandos aprendidos;
-* soluções desenvolvidas;
-* exemplos reutilizáveis;
-* aplicações em atividades educacionais.
+* estratégias adotadas;
+* descobertas realizadas;
+* possibilidades pedagógicas identificadas;
+* sugestões para futuras atividades.
+
+Esses registros contribuem para processos de reflexão e aperfeiçoamento das práticas docentes.
 
 ---
 
-# Boas práticas
+## Materiais Complementares
 
-* comentar arquivos longos;
-* organizar projetos em pastas;
-* utilizar controle de versões;
-* manter modelos reutilizáveis;
-* documentar personalizações.
+Sugestões de consulta:
 
----
-
-# Limitações
-
-Entre as principais limitações destacam-se:
-
-* curva de aprendizagem superior à dos editores gráficos;
-* necessidade de familiaridade com sintaxe textual;
-* menor indicação para usuários iniciantes;
-* edição menos intuitiva para alterações rápidas.
-
-Essas características não representam deficiências do projeto, mas refletem sua proposta voltada à produção tipográfica de alta qualidade.
+* documentação oficial;
+* manuais produzidos pela comunidade;
+* fóruns de usuários;
+* vídeos tutoriais;
+* exemplos de partituras.
 
 ---
 
-# Comparação com alternativas
+## Articulações
 
-| Ferramenta   | Característica principal              |
-| ------------ | ------------------------------------- |
-| MuseScore    | Interface gráfica intuitiva           |
-| LilyPond     | Gravação tipográfica baseada em texto |
-| Flat         | Colaboração online                    |
-| NoteFlight   | Edição colaborativa em navegador      |
-| ABC Notation | Linguagem textual simplificada        |
+Esta ferramenta relaciona-se diretamente com:
+
+* MusicXML;
+* MIDI;
+* MuseScore;
+* LaTeX;
+* editores de áudio;
+* ambientes virtuais de aprendizagem.
 
 ---
 
-# Materiais Complementares
+## Olhar do REMUS
+
+O LilyPond representa uma das iniciativas mais relevantes do movimento de software livre aplicado à Educação Musical.
+
+Sua consolidação demonstra que projetos colaborativos podem alcançar elevado nível técnico e atender desde estudantes iniciantes até profissionais da música.
+
+Para o REMUS Livre, o LilyPond não é apenas um editor de partituras. É um exemplo de como a programação pode se tornar uma linguagem de criação musical, aproximando estudantes de conceitos como lógica, estrutura e algoritmos.
+
+Sua adoção em escolas públicas, universidades e projetos de extensão reforça seu potencial como ferramenta estratégica para uma educação musical crítica, colaborativa e aberta.
+
+---
+
+## Referências
 
 * Documentação oficial do LilyPond.
-* Manual de Aprendizagem (Learning Manual).
-* Manual de Notação.
-* Guia de Contribuição.
-* Projeto Frescobaldi.
-
----
-
-# Veja também
-
-* MuseScore
-* MusicXML
-* ABC Notation
-* OpenSheetMusicDisplay
-
----
-
-# Olhar do REMUS
-
-O LilyPond representa uma abordagem singular da notação musical digital.
-
-Enquanto muitos programas procuram reproduzir a experiência da escrita manual em uma interface gráfica, o LilyPond adota uma lógica declarativa: o foco está na descrição da música, não no posicionamento manual dos elementos da partitura.
-
-Essa característica favorece práticas relacionadas à documentação, reprodutibilidade, versionamento e colaboração, aproximando a produção musical de metodologias amplamente utilizadas na ciência aberta e no desenvolvimento de software.
-
-Para docentes e pesquisadores, compreender essa abordagem amplia a percepção sobre diferentes formas de representar e organizar o conhecimento musical em ambientes digitais.
-
----
-
-# Referências
-
-* Documentação oficial do LilyPond.
-* Learning Manual.
-* Notation Reference.
-* Contributor's Guide.
-* GNU General Public License.
+* Manual do usuário.
+* Comunidade LilyPond.
 * Literatura sobre tecnologias digitais aplicadas à Educação Musical.
-
----
-
-# Histórico da ficha
-
-**Versão 1.0.0**
-
-* Primeira publicação da ficha.
-* Estrutura editorial alinhada ao padrão do REMUS Livre.
-* Revisão técnica baseada na documentação oficial do projeto.
-                    
