@@ -1,330 +1,211 @@
 ---
-
+layout: default
 title: Audacity
-description: Editor de áudio livre para gravação, edição, restauração e produção de materiais sonoros.
-category: Áudio
-slug: audacity
-version: 1.0.0
-status: Publicado
------------------
+---
 
 # Audacity
 
-> Editor de áudio livre e multiplataforma destinado à gravação, edição, restauração, análise e exportação de arquivos sonoros.
+![Audacity](../../imagens/audio/audio-audacity.jpg)
+
+*Interface do Audacity.*
+
+- **Categoria:** Produção e Edição de Áudio
+
+> Editor de áudio livre e multiplataforma para gravação, edição, mixagem e análise de ondas sonoras.
 
 ---
 
-# Resumo Executivo
+## Resumo Executivo
 
-O **Audacity** é um software livre amplamente utilizado para gravação e edição de áudio digital. Sua interface simples, aliada a um conjunto robusto de ferramentas de edição, torna-o uma das aplicações mais difundidas em escolas, universidades, estúdios domésticos e projetos educacionais.
+O **Audacity** é um software livre de edição de áudio que permite gravar, editar, mixar e analisar sons em múltiplas faixas. Desenvolvido como um projeto de código aberto, tornou-se uma das ferramentas mais utilizadas no ensino de música, produção de podcasts, documentários sonoros e projetos de análise acústica em escolas e universidades.
 
-Além da edição de arquivos sonoros, o Audacity oferece recursos para limpeza de ruídos, gravação multipista simples, análise espectral, aplicação de efeitos e exportação para diferentes formatos de áudio.
-
-Sua disponibilidade para Linux, Windows e macOS, associada à licença livre, faz do Audacity uma ferramenta estratégica para projetos de Educação Musical e produção de recursos educacionais.
+Além da edição tradicional, o Audacity oferece visualização de espectro, análise de frequências e ferramentas de restauração de áudio, sendo útil tanto para criação quanto para investigação científica do som.
 
 ---
 
-# Visão Geral
-
-O Audacity foi desenvolvido para facilitar o trabalho com áudio digital.
-
-Seu fluxo de utilização envolve:
-
-* gravação;
-* importação de arquivos;
-* edição;
-* processamento;
-* análise;
-* exportação.
-
-Essa organização permite que usuários iniciantes e experientes desenvolvam atividades de produção sonora sem depender de softwares proprietários.
-
----
-
-# Histórico do Projeto
-
-O Audacity foi iniciado em 1999 por Dominic Mazzoni e Roger Dannenberg como um projeto voltado à edição digital de áudio.
-
-Ao longo dos anos consolidou-se como um dos principais softwares livres para edição sonora, reunindo uma comunidade internacional de desenvolvedores e colaboradores.
-
-Seu desenvolvimento contínuo incorporou novos formatos de áudio, melhorias na interface, processamento em tempo real e suporte ampliado a plugins.
-
----
-
-# Licenciamento
-
-O Audacity é distribuído como software livre sob a licença **GNU General Public License (GPL)**.
-
-Essa licença assegura liberdade para utilizar, estudar, modificar e redistribuir o software, favorecendo sua adoção em instituições educacionais e projetos voltados ao conhecimento aberto.
-
----
-
-# Ecossistema
-
-O Audacity integra um amplo ecossistema de produção de áudio.
-
-Entre os recursos compatíveis destacam-se:
-
-* FFmpeg;
-* VST;
-* LV2;
-* LADSPA;
-* Nyquist;
-* ASIO (quando disponível em compilações específicas);
-* interfaces de áudio USB;
-* microfones externos.
-
----
-
-# Aspectos Técnicos
+## Aspectos Técnicos
 
 **Categoria:** Editor de Áudio
 
-**Licença:** GNU GPL
+**Licença:** Código aberto (GPL)
 
-**Sistemas Operacionais**
+**Sistemas operacionais:**
 
 * Linux
 * Windows
 * macOS
 
-**Desenvolvimento**
-
-* Linguagem principal: C++
-* Interface gráfica: wxWidgets
+**Formatos suportados**
 
 ### Entrada
 
 * WAV
-* AIFF
-* FLAC
 * MP3
-* OGG Vorbis
-* diversos formatos por meio do FFmpeg
+* OGG
+* FLAC
+* AIFF
+* entre outros
 
 ### Exportação
 
 * WAV
-* FLAC
 * MP3
-* OGG Vorbis
+* OGG
+* FLAC
 * AIFF
+* entre outros
+
+### Recursos principais
+
+* Gravação multipista;
+* Edição não destrutiva;
+* Mixagem;
+* Visualização de espectro;
+* Análise de frequências;
+* Efeitos (reverb, eco, equalização, compressão);
+* Restauração de áudio;
+* Remoção de ruído;
+* Geração de tons.
 
 ---
 
-# Por dentro da ferramenta
+## Aplicações na Educação Musical
 
-O Audacity trabalha com projetos de edição de áudio organizados em trilhas independentes.
+O Audacity pode ser utilizado em diferentes níveis de ensino.
 
-Sua arquitetura permite combinar gravação, edição, processamento e exportação em um único ambiente.
+Entre as aplicações mais comuns destacam-se:
 
-O software oferece suporte a processamento por plugins, edição baseada em seleção temporal, visualização em forma de onda e espectrograma, além de ferramentas para medição e análise do sinal de áudio.
+* gravação de performances;
+* edição de áudio para podcasts;
+* criação de trilhas sonoras;
+* análise espectral de instrumentos;
+* experimentação com efeitos;
+* produção de material didático;
+* documentação de processos criativos;
+* projetos interdisciplinares.
 
----
-
-# Recursos Principais
-
-* gravação de áudio;
-* edição de múltiplas trilhas;
-* recorte, cópia e montagem;
-* redução de ruído;
-* normalização;
-* compressão;
-* equalização;
-* alteração de tempo e tonalidade;
-* análise espectral;
-* suporte a plugins;
-* exportação em diversos formatos.
+Sua interface favorece tanto professores quanto estudantes iniciantes.
 
 ---
 
-# Aplicações na Educação Musical
+## Escola Pública
 
-O Audacity pode ser utilizado em atividades como:
+Por ser gratuito e funcionar em diferentes sistemas operacionais, o Audacity apresenta excelente potencial para escolas públicas.
 
-* gravação de práticas musicais;
-* produção de podcasts;
-* edição de entrevistas;
-* registro de ensaios;
-* criação de materiais didáticos;
-* análise de gravações;
-* estudo da paisagem sonora;
-* produção de trilhas para vídeos;
-* documentação de projetos musicais.
+Entre suas vantagens:
+
+* ausência de custos com licenciamento;
+* instalação em laboratórios escolares;
+* utilização em computadores de baixo custo;
+* ampla documentação produzida pela comunidade;
+* possibilidade de utilização em projetos de extensão.
 
 ---
 
-# Escola Pública
+## STEAM
 
-O Audacity apresenta excelente potencial para escolas públicas.
+O Audacity dialoga com diferentes áreas do conhecimento.
 
-Entre seus diferenciais destacam-se:
+Pode integrar projetos envolvendo:
 
-* software livre;
-* ausência de custos de licenciamento;
-* funcionamento em computadores de diferentes configurações;
-* documentação aberta;
-* ampla comunidade de usuários.
+* Ciência (acústica, ondas sonoras, espectro);
+* Tecnologia (edição digital, processamento de sinais);
+* Engenharia (análise de sinais, filtros);
+* Artes (criação sonora, trilhas);
+* Matemática (frequências, amplitudes, proporções).
 
-Essas características favorecem sua utilização em laboratórios de informática e projetos interdisciplinares.
-
----
-
-# Formação de Professores
-
-Na formação docente, o Audacity possibilita discutir:
-
-* produção de materiais sonoros;
-* gravação de aulas;
-* criação de podcasts educacionais;
-* edição de entrevistas;
-* documentação de práticas pedagógicas;
-* tecnologias abertas para Educação Musical.
+Essas possibilidades favorecem propostas interdisciplinares e projetos baseados em resolução de problemas.
 
 ---
 
-# STEAM
+## Inteligência Artificial
 
-O Audacity favorece projetos envolvendo:
+Embora o Audacity não seja uma ferramenta de IA, pode ser integrado a fluxos de trabalho que utilizam inteligência artificial.
 
-* Música;
-* Física (acústica);
-* Linguagem;
-* Comunicação;
-* Produção Audiovisual;
-* Tecnologias Digitais.
+Exemplos:
 
----
-
-# Inteligência Artificial
-
-O Audacity pode integrar fluxos de trabalho apoiados por ferramentas de Inteligência Artificial.
-
-Entre as possibilidades destacam-se:
-
+* separação de trilhas (via ferramentas externas);
+* remoção de ruído com modelos generativos;
 * transcrição automática;
-* redução inteligente de ruído;
-* restauração de gravações;
-* organização de acervos sonoros;
-* apoio à edição de materiais didáticos.
+* geração de efeitos;
+* análise musical assistida.
 
-A revisão humana permanece essencial para garantir qualidade técnica e fidelidade ao conteúdo produzido.
+A IA deve atuar como ferramenta de apoio ao processo criativo e pedagógico, preservando a autoria e a mediação docente.
 
 ---
 
-# Primeira Experiência
+## Primeira Experiência
 
-Uma atividade inicial consiste em gravar uma pequena narração acompanhada de um trecho musical.
+Uma atividade inicial pode consistir na gravação de um pequeno áudio e na aplicação de efeitos.
 
 Objetivos:
 
-* configurar o microfone;
-* gravar uma trilha;
-* realizar cortes simples;
-* aplicar redução de ruído;
-* ajustar o volume;
-* exportar o resultado em formato MP3 ou WAV.
+* conhecer a interface;
+* gravar um áudio;
+* aplicar efeitos;
+* editar trechos;
+* analisar o espectro;
+* exportar em MP3.
 
 Tempo estimado: 40 a 60 minutos.
 
 ---
 
-# Caderno de Bordo
+## Caderno de Bordo
 
-Durante a utilização recomenda-se registrar:
+Durante o uso do Audacity, recomenda-se registrar:
 
-* configuração dos equipamentos;
 * dificuldades encontradas;
-* procedimentos adotados;
-* resultados obtidos;
-* possibilidades de aplicação em sala de aula.
+* estratégias adotadas;
+* descobertas realizadas;
+* possibilidades pedagógicas identificadas;
+* sugestões para futuras atividades.
+
+Esses registros contribuem para processos de reflexão e aperfeiçoamento das práticas docentes.
 
 ---
 
-# Fluxo de Produção
+## Materiais Complementares
 
-```text
-Captação → Gravação → Edição → Processamento → Exportação → Compartilhamento
-```
+Sugestões de consulta:
 
----
-
-# Boas práticas
-
-* gravar em ambiente silencioso;
-* utilizar nomes padronizados para os arquivos;
-* manter cópias de segurança dos projetos;
-* preservar os arquivos originais antes da edição;
-* exportar versões finais em formatos sem perdas quando necessário.
+* documentação oficial;
+* manuais produzidos pela comunidade;
+* fóruns de usuários;
+* vídeos tutoriais;
+* exemplos de edição.
 
 ---
 
-# Limitações
+## Articulações
 
-Entre as principais limitações destacam-se:
+Esta ferramenta relaciona-se diretamente com:
 
-* não possui o mesmo conjunto de recursos de uma DAW profissional para produção musical completa;
-* recursos de MIDI são limitados;
-* projetos muito extensos podem exigir maior capacidade de processamento;
-* fluxos complexos de mixagem são mais adequados a softwares especializados.
-
----
-
-# Comparação com alternativas
-
-| Ferramenta | Principal característica                    |
-| ---------- | ------------------------------------------- |
-| Audacity   | Gravação e edição de áudio                  |
-| Ardour     | Produção multipista, mixagem e masterização |
-| LMMS       | Composição e sequenciamento MIDI            |
-| Ocenaudio  | Edição rápida de áudio                      |
-| Hydrogen   | Programação de baterias                     |
+* LMMS;
+* Ardour;
+* Hydrogen;
+* Sonic Pi;
+* MuseScore;
+* editores de vídeo;
+* ambientes virtuais de aprendizagem.
 
 ---
 
-# Materiais Complementares
+## Olhar do REMUS
 
-* Manual oficial do Audacity.
-* Documentação da comunidade.
-* Guias de plugins Nyquist.
-* Tutoriais de gravação e restauração de áudio.
-* Repositório oficial do projeto.
+O Audacity representa uma das iniciativas mais relevantes do movimento de software livre aplicado à Educação Musical.
 
----
+Sua consolidação demonstra que projetos colaborativos podem alcançar elevado nível técnico e atender desde estudantes iniciantes até profissionais da música.
 
-# Veja também
+Para o REMUS Livre, o Audacity não é apenas um editor de áudio. É um exemplo de como a tecnologia pode servir à investigação científica do som, à criação artística e à documentação de processos pedagógicos.
 
-* Ardour
-* LMMS
-* Hydrogen
-* Sonic Pi
-* MuseScore
+Sua adoção em escolas públicas, universidades e projetos de extensão reforça seu potencial como ferramenta estratégica para uma educação musical crítica, colaborativa e aberta.
 
 ---
 
-# Olhar do REMUS
-
-O Audacity ocupa um lugar de destaque na Educação Musical por combinar simplicidade de uso, ampla documentação e recursos suficientes para uma grande variedade de práticas pedagógicas.
-
-Mais do que um editor de áudio, constitui uma ferramenta de registro, documentação, análise e produção de conteúdos sonoros. Sua utilização favorece práticas autorais, desenvolvimento da escuta crítica e criação de materiais didáticos, contribuindo para ampliar a autonomia tecnológica de professores e estudantes.
-
----
-
-# Referências
+## Referências
 
 * Documentação oficial do Audacity.
 * Manual do usuário.
-* Repositório oficial do projeto.
-* Documentação sobre plugins e formatos suportados.
+* Comunidade Audacity.
 * Literatura sobre tecnologias digitais aplicadas à Educação Musical.
-
----
-
-# Histórico da ficha
-
-**Versão 1.0.0**
-
-* Primeira publicação.
-* Estrutura editorial alinhada ao padrão do REMUS Livre.
-* Revisão inicial baseada na documentação oficial do projeto.
-16:00
