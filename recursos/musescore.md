@@ -1,4 +1,15 @@
+---
+layout: default
+title: MuseScore
+---
+
 # MuseScore
+
+![MuseScore](../../imagens/notacao/notacao-musescore.jpg)
+
+*Interface do MuseScore.*
+
+- **Categoria:** Notação Musical
 
 > Editor de partituras livre e multiplataforma para criação, edição, reprodução e compartilhamento de partituras musicais.
 
@@ -199,4 +210,3 @@ Sua adoção em escolas públicas, universidades e projetos de extensão reforç
 * Manual do usuário.
 * Comunidade MuseScore.
 * Literatura sobre tecnologias digitais aplicadas à Educação Musical.
-    
