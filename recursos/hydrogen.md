@@ -1,333 +1,207 @@
 ---
-
+layout: default
 title: Hydrogen
-description: Drum machine livre para programação de ritmos, sequenciamento de baterias e criação de padrões rítmicos.
-category: Áudio
-slug: hydrogen
-version: 1.0.0
-status: Publicado
------------------
+---
 
 # Hydrogen
 
-> Drum machine livre e multiplataforma voltada à criação de padrões rítmicos, sequenciamento de baterias e produção musical baseada em loops.
+![Hydrogen](../../imagens/audio/audio-hydrogen.jpg)
 
-![Interface principal do Hydrogen](../../assets/img/recursos/audio/hydrogen/interface-principal.webp)
+*Interface do Hydrogen.*
 
----
+- **Categoria:** Produção e Edição de Áudio
 
-# Resumo Executivo
-
-O **Hydrogen** é um software livre dedicado à programação de ritmos e baterias eletrônicas.
-
-Seu ambiente reúne ferramentas para criação de padrões rítmicos, organização de músicas, edição de dinâmica, automação básica e utilização de diferentes conjuntos de instrumentos (drumkits).
-
-Por apresentar uma interface objetiva e um fluxo de trabalho acessível, tornou-se uma ferramenta amplamente utilizada em atividades de ensino, composição, estudos de ritmo e produção musical.
+> Drum machine livre e multiplataforma para programação de baterias, criação de padrões rítmicos e experimentação com percussão eletrônica.
 
 ---
 
-# Visão Geral
+## Resumo Executivo
 
-O Hydrogen foi desenvolvido para simplificar a criação de ritmos.
+O **Hydrogen** é uma drum machine (máquina de ritmos) livre e multiplataforma que permite programar padrões de bateria, sequenciar ritmos e criar bases percussivas de forma intuitiva. Desenvolvido como um projeto de código aberto, é amplamente utilizado no ensino de música, produção de beats e experimentação rítmica em escolas, universidades e estúdios caseiros.
 
-Sua organização é baseada em três elementos principais:
-
-* Drumkits;
-* Patterns;
-* Song.
-
-Essa estrutura permite construir desde exercícios simples de percepção rítmica até bases completas para ensaios, performances e atividades educacionais.
+Diferente de DAWs completas, o Hydrogen é focado especificamente na **programação de baterias** e **criação de padrões rítmicos**, sendo uma ferramenta ideal para introduzir conceitos de ritmo, compasso e polirritmia.
 
 ---
 
-# Histórico do Projeto
-
-O Hydrogen surgiu no início dos anos 2000 como um projeto de software livre voltado à criação de baterias eletrônicas.
-
-Desde então, seu desenvolvimento é mantido por uma comunidade internacional de colaboradores, recebendo melhorias contínuas na interface, compatibilidade entre plataformas, gerenciamento de drumkits e recursos de produção musical.
-
-Ao longo de sua evolução consolidou-se como uma das principais drum machines livres disponíveis.
-
----
-
-# Licenciamento
-
-O Hydrogen é distribuído sob a licença **GNU General Public License (GPL)**.
-
-Essa licença garante liberdade para utilizar, estudar, modificar e redistribuir o software, favorecendo sua adoção em instituições educacionais e projetos colaborativos.
-
----
-
-# Ecossistema
-
-O Hydrogen integra facilmente fluxos de produção musical envolvendo:
-
-* Ardour;
-* LMMS;
-* JACK;
-* MIDI;
-* instrumentos virtuais;
-* controladores MIDI;
-* interfaces de áudio;
-* coleções de drumkits livres.
-
-Essa interoperabilidade permite utilizar o Hydrogen tanto de forma independente quanto integrado a outras DAWs.
-
----
-
-# Aspectos Técnicos
+## Aspectos Técnicos
 
 **Categoria:** Drum Machine
 
-**Licença:** GNU GPL
+**Licença:** Código aberto (GPL)
 
-**Sistemas Operacionais**
+**Sistemas operacionais:**
 
 * Linux
 * Windows
 * macOS
 
-**Desenvolvimento**
-
-* Linguagem principal: C++
-* Interface gráfica: Qt
+**Formatos suportados**
 
 ### Entrada
 
-* Drumkits
-* Samples WAV
-* MIDI
+* WAV
+* FLAC
+* OGG
+* AIFF
+* SF2 (SoundFont)
+* entre outros
 
 ### Exportação
 
 * WAV
 * MIDI
-* Projetos Hydrogen
+* entre outros
+
+### Recursos principais
+
+* Programação de padrões rítmicos;
+* Sequenciador de padrões;
+* Múltiplas camadas de som;
+* Mixagem;
+* Efeitos (reverb, delay, compressão);
+* Importação de samples;
+* Exportação MIDI;
+* Metrônomo.
 
 ---
 
-# Por dentro da ferramenta
+## Aplicações na Educação Musical
 
-O Hydrogen organiza o processo criativo em módulos especializados.
+O Hydrogen pode ser utilizado em diferentes níveis de ensino.
 
-O **Pattern Editor** é utilizado para construir células rítmicas.
+Entre as aplicações mais comuns destacam-se:
 
-O **Song Editor** organiza esses padrões ao longo da composição.
+* criação de bases rítmicas;
+* experimentação com polirritmia;
+* estudo de compassos;
+* composição de batidas;
+* trilhas sonoras;
+* projetos interdisciplinares;
+* documentação de processos criativos;
+* produção de material didático.
 
-O **Mixer** permite controlar volume, panorama e efeitos básicos de cada instrumento.
-
-Essa separação facilita a compreensão das diferentes etapas da programação rítmica e favorece atividades de aprendizagem baseadas na experimentação.
-
-![Editor de padrões](../../assets/img/recursos/audio/hydrogen/pattern-editor.webp)
-
----
-
-# Recursos Principais
-
-* programação de padrões rítmicos;
-* sequenciamento de músicas;
-* editor de dinâmica;
-* quantização;
-* múltiplos drumkits;
-* mixer integrado;
-* suporte a MIDI;
-* exportação em áudio;
-* metrônomo;
-* gerenciamento de tempo (BPM).
+Sua interface favorece tanto professores quanto estudantes iniciantes.
 
 ---
 
-# Aplicações na Educação Musical
+## Escola Pública
 
-O Hydrogen pode ser utilizado em atividades como:
+Por ser gratuito e funcionar em diferentes sistemas operacionais, o Hydrogen apresenta excelente potencial para escolas públicas.
 
-* criação de acompanhamentos;
-* estudo de pulsação;
-* construção de grooves;
-* composição coletiva;
-* práticas de improvisação;
-* produção de bases para performance;
-* experimentação com diferentes estilos musicais;
-* ensino de forma musical.
+Entre suas vantagens:
 
-Sua interface favorece metodologias centradas na criação e na escuta crítica.
+* ausência de custos com licenciamento;
+* instalação em laboratórios escolares;
+* utilização em computadores de baixo custo;
+* ampla documentação produzida pela comunidade;
+* possibilidade de utilização em projetos de extensão.
 
 ---
 
-# Escola Pública
+## STEAM
 
-O Hydrogen apresenta elevado potencial para utilização em escolas públicas.
+O Hydrogen dialoga com diferentes áreas do conhecimento.
 
-Entre seus diferenciais destacam-se:
+Pode integrar projetos envolvendo:
 
-* software livre;
-* instalação simples;
-* baixo consumo de recursos computacionais;
-* funcionamento em diferentes sistemas operacionais;
-* ampla coleção de drumkits disponíveis.
+* Matemática (compassos, proporções, padrões);
+* Tecnologia (programação de padrões, sequenciamento);
+* Artes (criação rítmica, composição);
+* Ciência (acústica, percussão);
+* Engenharia (design de som, síntese).
 
----
-
-# Formação de Professores
-
-Na formação inicial e continuada, o Hydrogen possibilita discutir:
-
-* organização rítmica;
-* produção musical digital;
-* software livre;
-* criação de materiais para aulas;
-* práticas colaborativas;
-* tecnologia aplicada à Educação Musical.
+Essas possibilidades favorecem propostas interdisciplinares e projetos baseados em resolução de problemas.
 
 ---
 
-# STEAM
+## Inteligência Artificial
 
-Projetos utilizando o Hydrogen podem integrar:
+Embora o Hydrogen não seja uma ferramenta de IA, pode ser integrado a fluxos de trabalho que utilizam inteligência artificial.
 
-* Música;
-* Matemática;
-* Computação;
-* Física do Som;
-* Programação;
-* Produção Multimídia.
-
-A construção de padrões rítmicos favorece o desenvolvimento de competências relacionadas à lógica, repetição, organização temporal e reconhecimento de estruturas.
-
----
-
-# Inteligência Artificial
-
-O Hydrogen pode integrar fluxos de trabalho apoiados por Inteligência Artificial.
-
-Entre as possibilidades destacam-se:
+Exemplos:
 
 * geração de padrões rítmicos;
-* criação de grooves;
-* sugestões de variações;
-* apoio à composição;
-* análise de estruturas rítmicas.
+* sugestões de batidas;
+* transcrição de ritmos;
+* análise rítmica assistida;
+* criação de exercícios personalizados.
 
-A avaliação musical permanece responsabilidade do usuário e do professor.
+A IA deve atuar como ferramenta de apoio ao processo criativo e pedagógico, preservando a autoria e a mediação docente.
 
 ---
 
-# Primeira Experiência
+## Primeira Experiência
 
-Uma atividade introdutória consiste em construir um ritmo simples utilizando bumbo, caixa e chimbal.
+Uma atividade inicial pode consistir na criação de uma batida simples.
 
 Objetivos:
 
-* compreender a interface;
-* criar o primeiro pattern;
-* organizar uma sequência de padrões;
-* alterar o andamento;
-* exportar o resultado em áudio.
+* conhecer a interface;
+* programar padrões;
+* alterar sons;
+* utilizar compassos;
+* mixar;
+* exportar em WAV.
 
 Tempo estimado: 40 a 60 minutos.
 
 ---
 
-# Caderno de Bordo
+## Caderno de Bordo
 
-Durante as atividades recomenda-se registrar:
+Durante o uso do Hydrogen, recomenda-se registrar:
 
-* padrões desenvolvidos;
-* configurações utilizadas;
 * dificuldades encontradas;
-* soluções construídas;
-* aplicações pedagógicas observadas.
+* estratégias adotadas;
+* descobertas realizadas;
+* possibilidades pedagógicas identificadas;
+* sugestões para futuras atividades.
+
+Esses registros contribuem para processos de reflexão e aperfeiçoamento das práticas docentes.
 
 ---
 
-# Fluxo de Produção
+## Materiais Complementares
 
-```text
-Escolha do Drumkit → Criação dos Patterns → Organização da Música → Ajustes do Mixer → Exportação
-```
+Sugestões de consulta:
 
----
-
-# Boas práticas
-
-* organizar padrões por função musical;
-* nomear corretamente os projetos;
-* salvar versões sucessivas;
-* manter bibliotecas de drumkits organizadas;
-* experimentar diferentes andamentos antes da exportação.
+* documentação oficial;
+* manuais produzidos pela comunidade;
+* fóruns de usuários;
+* vídeos tutoriais;
+* exemplos de padrões rítmicos.
 
 ---
 
-# Limitações
+## Articulações
 
-Entre as principais limitações destacam-se:
+Esta ferramenta relaciona-se diretamente com:
 
-* foco exclusivo em programação rítmica;
-* recursos limitados para gravação de áudio;
-* edição MIDI menos abrangente que a de uma DAW completa;
-* necessidade de integração com outras ferramentas para produções mais complexas.
-
-Essas características refletem sua especialização como drum machine.
-
----
-
-# Comparação com alternativas
-
-| Ferramenta | Principal característica                          |
-| ---------- | ------------------------------------------------- |
-| Hydrogen   | Programação de baterias e ritmos                  |
-| LMMS       | Produção musical baseada em MIDI e sintetizadores |
-| Ardour     | Gravação e mixagem multipista                     |
-| Audacity   | Edição de áudio                                   |
-| MuseScore  | Notação musical                                   |
+* Audacity;
+* LMMS;
+* Ardour;
+* Sonic Pi;
+* MuseScore;
+* editores de vídeo;
+* ambientes virtuais de aprendizagem.
 
 ---
 
-# Materiais Complementares
+## Olhar do REMUS
 
-* Manual oficial do Hydrogen.
-* Documentação do projeto.
-* Repositório oficial.
-* Coleções de drumkits livres.
-* Tutoriais produzidos pela comunidade.
+O Hydrogen representa uma das iniciativas mais relevantes do movimento de software livre aplicado à Educação Musical.
 
----
+Sua consolidação demonstra que projetos colaborativos podem alcançar elevado nível técnico e atender desde estudantes iniciantes até profissionais da música.
 
-# Veja também
+Para o REMUS Livre, o Hydrogen não é apenas uma drum machine. É um exemplo de como a tecnologia pode servir à criação rítmica, à experimentação com padrões e à documentação de processos pedagógicos.
 
-* LMMS
-* Ardour
-* Audacity
-* Sonic Pi
-* MuseScore
+Sua adoção em escolas públicas, universidades e projetos de extensão reforça seu potencial como ferramenta estratégica para uma educação musical crítica, colaborativa e aberta.
 
 ---
 
-# Olhar do REMUS
-
-O Hydrogen demonstra como uma ferramenta especializada pode desempenhar papel relevante na Educação Musical.
-
-Sua simplicidade permite concentrar a atenção na construção do ritmo, favorecendo atividades relacionadas à pulsação, organização temporal, criação de acompanhamentos e experimentação sonora.
-
-Quando integrado a ferramentas como LMMS e Ardour, amplia significativamente as possibilidades de produção musical em ambientes educacionais baseados em software livre.
-
----
-
-# Referências
+## Referências
 
 * Documentação oficial do Hydrogen.
 * Manual do usuário.
-* Repositório oficial do projeto.
-* Documentação sobre drumkits e recursos MIDI.
+* Comunidade Hydrogen.
 * Literatura sobre tecnologias digitais aplicadas à Educação Musical.
-
----
-
-# Histórico da ficha
-
-**Versão 1.0.0**
-
-* Primeira publicação.
-* Estrutura editorial alinhada ao padrão do REMUS Livre.
-* Preparada para integração com imagens e futuras revisões técnicas.
-    
