@@ -1,324 +1,210 @@
 ---
-
+layout: default
 title: LMMS
-description: Estação de Trabalho de Áudio Digital (DAW) livre para composição, produção musical e sequenciamento MIDI.
-category: Áudio
-slug: lmms
-version: 1.0.0
-status: Publicado
------------------
+---
 
 # LMMS
 
-> Estação de Trabalho de Áudio Digital (Digital Audio Workstation – DAW) livre e multiplataforma voltada à composição, produção musical, síntese sonora e sequenciamento MIDI.
+![LMMS](../../imagens/audio/audio-lmms.jpg)
+
+*Interface do LMMS.*
+
+- **Categoria:** Produção e Edição de Áudio
+
+> Estação de áudio digital (DAW) livre para produção musical, criação de beats, trilhas sonoras e experimentação sonora.
 
 ---
 
-# Resumo Executivo
+## Resumo Executivo
 
-O **LMMS** (originalmente *Linux MultiMedia Studio*) é uma estação de trabalho de áudio digital de código aberto desenvolvida para criação musical em ambiente computacional.
+O **LMMS** (Linux MultiMedia Studio) é uma estação de áudio digital (DAW) livre e multiplataforma que permite compor, sequenciar, mixar e produzir música de forma completa. Desenvolvido como um projeto de código aberto, tornou-se uma das ferramentas mais utilizadas no ensino de música, produção de beats e projetos de música eletrônica em escolas, universidades e estúdios caseiros.
 
-A ferramenta reúne recursos para composição, sequenciamento MIDI, síntese sonora, automação, mixagem e produção musical, permitindo desenvolver projetos completos sem a necessidade de softwares proprietários.
-
-Sua interface integra piano roll, editor de padrões, mixer, automação e diversos sintetizadores nativos, tornando-o uma alternativa consolidada para atividades de criação musical, ensino de tecnologia musical e produção de música eletrônica.
+Além da produção musical tradicional, o LMMS oferece síntese sonora, sampleamento, automação e integração com plugins VST, sendo útil tanto para criação quanto para experimentação sonora.
 
 ---
 
-# Visão Geral
+## Aspectos Técnicos
 
-O LMMS foi concebido para oferecer um ambiente completo de produção musical baseado principalmente em instrumentos virtuais e dados MIDI.
+**Categoria:** Estação de Áudio Digital (DAW)
 
-Diferentemente de DAWs voltadas prioritariamente para gravação de áudio multipista, o LMMS concentra seu fluxo de trabalho na construção de músicas por meio de sintetizadores, samples, automação e sequenciamento.
+**Licença:** Código aberto (GPL)
 
-Essa característica faz da ferramenta uma excelente opção para aprendizagem de composição digital e introdução à produção musical.
-
----
-
-# Histórico do Projeto
-
-O projeto teve início em **2004**, inicialmente com o nome **Linux MultiMedia Studio**.
-
-Com sua evolução para diferentes sistemas operacionais, passou a utilizar apenas a sigla **LMMS**, refletindo seu caráter multiplataforma.
-
-Mantido por uma comunidade internacional de desenvolvedores, o projeto permanece ativo, recebendo melhorias contínuas e novas funcionalidades por meio de um desenvolvimento colaborativo.
-
----
-
-# Licenciamento
-
-O LMMS é distribuído sob a licença **GNU General Public License (GPL)**.
-
-Essa licença garante liberdade para utilizar, estudar, modificar e redistribuir o software, favorecendo sua adoção em instituições educacionais, projetos de extensão e iniciativas voltadas ao conhecimento aberto.
-
----
-
-# Ecossistema
-
-O LMMS integra um amplo ecossistema de produção musical.
-
-Entre os recursos compatíveis destacam-se:
-
-* MIDI;
-* SoundFonts (SF2);
-* plugins VST (em plataformas compatíveis);
-* plugins LADSPA;
-* projetos do Hydrogen;
-* teclados MIDI;
-* sintetizadores internos;
-* bibliotecas de samples.
-
-Essa interoperabilidade permite integrar o LMMS a diferentes fluxos de produção musical.
-
----
-
-# Aspectos Técnicos
-
-**Categoria:** Estação de Trabalho de Áudio Digital (DAW)
-
-**Licença:** GNU GPL
-
-**Sistemas Operacionais**
+**Sistemas operacionais:**
 
 * Linux
 * Windows
 * macOS
 
-**Desenvolvimento**
-
-* Linguagem principal: C++
-* Interface gráfica: Qt
-
-**Principais formatos**
+**Formatos suportados**
 
 ### Entrada
 
+* WAV
+* OGG
+* FLAC
 * MIDI
-* SoundFonts (SF2)
-* Projetos Hydrogen
-* Samples WAV, OGG e outros formatos compatíveis
+* SF2 (SoundFont)
+* entre outros
 
 ### Exportação
 
 * WAV
 * OGG
 * FLAC
-* MP3
+* MIDI
+* entre outros
 
----
+### Recursos principais
 
-# Por dentro da ferramenta
-
-O LMMS foi desenvolvido principalmente em **C++**, utilizando o framework **Qt** para construção da interface gráfica.
-
-Sua arquitetura organiza a produção musical em módulos especializados, como o **Song Editor**, **Beat + Bassline Editor**, **Piano Roll**, **Automation Editor** e **FX Mixer**, permitindo separar composição, edição, automação e mixagem em diferentes etapas do fluxo de trabalho.
-
-Os projetos podem ser salvos em formatos próprios baseados em XML, facilitando o versionamento e a preservação das informações musicais.
-
----
-
-# Recursos Principais
-
-* Piano Roll avançado;
-* Sequenciamento MIDI;
-* Editor Beat + Bassline;
-* Mixer com múltiplos canais;
-* Automação de parâmetros;
+* Sequenciador;
 * Sintetizadores integrados;
-* Editor de melodias;
-* Importação de arquivos MIDI;
-* Compatibilidade com SoundFonts;
-* Suporte a plugins de instrumentos e efeitos;
-* Gravação e exportação de projetos.
+* Sampleamento;
+* Automação;
+* Mixagem;
+* Efeitos (reverb, delay, compressão, equalização);
+* Suporte a VST;
+* Piano roll;
+* Beat editor.
 
 ---
 
-# Aplicações na Educação Musical
+## Aplicações na Educação Musical
 
-O LMMS oferece inúmeras possibilidades para o ensino de música.
+O LMMS pode ser utilizado em diferentes níveis de ensino.
 
-Entre elas:
+Entre as aplicações mais comuns destacam-se:
 
-* composição musical;
-* criação de trilhas sonoras;
-* produção de bases rítmicas;
-* estudo de harmonia;
-* sequenciamento MIDI;
-* síntese sonora;
-* produção colaborativa;
-* experimentação musical.
+* criação de beats e batidas;
+* composição de trilhas sonoras;
+* produção de música eletrônica;
+* arranjos para grupos escolares;
+* experimentação com síntese sonora;
+* projetos interdisciplinares;
+* documentação de processos criativos;
+* produção de material didático.
 
-Sua interface favorece metodologias centradas na criação, permitindo que estudantes desenvolvam projetos autorais desde os primeiros contatos com produção musical digital.
+Sua interface favorece tanto professores quanto estudantes iniciantes.
 
 ---
 
-# Escola Pública
+## Escola Pública
 
-Por ser gratuito e multiplataforma, o LMMS apresenta elevado potencial para utilização em escolas públicas.
+Por ser gratuito e funcionar em diferentes sistemas operacionais, o LMMS apresenta excelente potencial para escolas públicas.
 
-Entre seus diferenciais destacam-se:
+Entre suas vantagens:
 
 * ausência de custos com licenciamento;
 * instalação em laboratórios escolares;
+* utilização em computadores de baixo custo;
 * ampla documentação produzida pela comunidade;
-* funcionamento em computadores pessoais;
-* incentivo à cultura do software livre.
+* possibilidade de utilização em projetos de extensão.
 
 ---
 
-# Formação de Professores
+## STEAM
 
-Na formação docente, o LMMS possibilita discutir temas como:
+O LMMS dialoga com diferentes áreas do conhecimento.
 
-* produção musical digital;
-* cultura maker;
-* software livre;
-* recursos educacionais abertos;
-* pensamento computacional aplicado à música;
-* criação musical colaborativa.
+Pode integrar projetos envolvendo:
 
----
+* Tecnologia (produção digital, automação);
+* Artes (criação sonora, composição);
+* Engenharia (síntese, design de som);
+* Ciência (acústica, processamento de sinais);
+* Matemática (proporções, padrões rítmicos, algoritmos).
 
-# STEAM
-
-O LMMS favorece projetos interdisciplinares envolvendo:
-
-* Música;
-* Computação;
-* Matemática;
-* Física do Som;
-* Programação;
-* Produção Multimídia.
-
-Sua estrutura modular permite explorar conceitos de síntese sonora, processamento digital e automação em atividades integradas.
+Essas possibilidades favorecem propostas interdisciplinares e projetos baseados em resolução de problemas.
 
 ---
 
-# Inteligência Artificial
+## Inteligência Artificial
 
-O LMMS pode integrar fluxos de trabalho com ferramentas de Inteligência Artificial.
+Embora o LMMS não seja uma ferramenta de IA, pode ser integrado a fluxos de trabalho que utilizam inteligência artificial.
 
-Entre as possibilidades destacam-se:
+Exemplos:
 
-* geração de ideias melódicas;
-* criação de progressões harmônicas;
-* organização de projetos;
-* produção de exercícios musicais;
-* apoio ao processo criativo.
+* geração de ideias musicais;
+* separação de trilhas (via ferramentas externas);
+* sugestões de arranjos;
+* análise harmônica;
+* criação de exercícios personalizados.
 
-A mediação docente continua sendo essencial para contextualizar, selecionar e avaliar os resultados produzidos.
+A IA deve atuar como ferramenta de apoio ao processo criativo e pedagógico, preservando a autoria e a mediação docente.
 
 ---
 
-# Primeira Experiência
+## Primeira Experiência
 
-Uma atividade introdutória consiste em produzir uma música curta utilizando apenas instrumentos virtuais.
+Uma atividade inicial pode consistir na criação de uma batida simples.
 
 Objetivos:
 
 * conhecer a interface;
-* criar uma sequência rítmica;
-* inserir uma linha de baixo;
-* desenvolver uma melodia;
-* aplicar automação simples;
-* exportar o projeto em formato de áudio.
+* inserir padrões rítmicos;
+* alterar sons;
+* utilizar automação;
+* mixar faixas;
+* exportar em WAV.
 
-Tempo estimado: 60 a 90 minutos.
+Tempo estimado: 40 a 60 minutos.
 
 ---
 
-# Caderno de Bordo
+## Caderno de Bordo
 
-Durante as atividades recomenda-se registrar:
+Durante o uso do LMMS, recomenda-se registrar:
 
-* estratégias de composição;
 * dificuldades encontradas;
-* soluções adotadas;
-* descobertas sobre síntese sonora;
-* possibilidades pedagógicas observadas.
+* estratégias adotadas;
+* descobertas realizadas;
+* possibilidades pedagógicas identificadas;
+* sugestões para futuras atividades.
+
+Esses registros contribuem para processos de reflexão e aperfeiçoamento das práticas docentes.
 
 ---
 
-# Boas práticas
+## Materiais Complementares
 
-* organizar projetos por pastas;
-* nomear corretamente os instrumentos;
-* utilizar automação de forma planejada;
-* salvar diferentes versões dos projetos;
-* realizar exportações periódicas do áudio final.
+Sugestões de consulta:
 
----
-
-# Limitações
-
-Embora bastante completo, o LMMS apresenta algumas limitações.
-
-Entre elas:
-
-* foco maior em produção MIDI do que em gravação multipista;
-* compatibilidade variável com determinados plugins conforme o sistema operacional;
-* curva de aprendizagem para usuários sem experiência em DAWs;
-* alguns fluxos profissionais podem exigir integração com outras ferramentas.
-
-Essas características refletem sua proposta voltada principalmente à composição e produção baseada em instrumentos virtuais.
+* documentação oficial;
+* manuais produzidos pela comunidade;
+* fóruns de usuários;
+* vídeos tutoriais;
+* exemplos de projetos.
 
 ---
 
-# Comparação com alternativas
+## Articulações
 
-| Ferramenta | Principal característica                          |
-| ---------- | ------------------------------------------------- |
-| LMMS       | Produção musical baseada em MIDI e sintetizadores |
-| Ardour     | Gravação e edição multipista de áudio e MIDI      |
-| Audacity   | Edição de áudio                                   |
-| MuseScore  | Notação musical                                   |
-| Hydrogen   | Programação de baterias                           |
+Esta ferramenta relaciona-se diretamente com:
 
----
-
-# Materiais Complementares
-
-* Manual oficial do LMMS.
-* Documentação do projeto.
-* Wiki da comunidade.
-* Repositório oficial de desenvolvimento.
-* Exemplos de projetos disponibilizados pela comunidade.
+* Audacity;
+* Ardour;
+* Hydrogen;
+* Sonic Pi;
+* MuseScore;
+* editores de vídeo;
+* ambientes virtuais de aprendizagem.
 
 ---
 
-# Veja também
+## Olhar do REMUS
 
-* Ardour
-* Audacity
-* Hydrogen
-* MuseScore
-* Sonic Pi
+O LMMS representa uma das iniciativas mais relevantes do movimento de software livre aplicado à Educação Musical.
 
----
+Sua consolidação demonstra que projetos colaborativos podem alcançar elevado nível técnico e atender desde estudantes iniciantes até profissionais da música.
 
-# Olhar do REMUS
+Para o REMUS Livre, o LMMS não é apenas uma DAW. É um exemplo de como a tecnologia pode servir à criação artística, à experimentação sonora e à documentação de processos pedagógicos.
 
-O LMMS ocupa um lugar importante no ecossistema do software livre para Educação Musical por oferecer um ambiente completo de criação musical sem custos de licenciamento.
-
-Sua proposta privilegia a experimentação, a composição e a autonomia criativa, aproximando estudantes dos processos contemporâneos de produção musical digital.
-
-Ao reunir sintetizadores, sequenciadores, automação e edição MIDI em uma única interface, a ferramenta favorece práticas que articulam criatividade, pensamento computacional e produção colaborativa, tornando-se um recurso relevante para projetos de Educação Musical mediados por tecnologias abertas.
+Sua adoção em escolas públicas, universidades e projetos de extensão reforça seu potencial como ferramenta estratégica para uma educação musical crítica, colaborativa e aberta.
 
 ---
 
-# Referências
+## Referências
 
 * Documentação oficial do LMMS.
 * Manual do usuário.
-* Repositório oficial do projeto.
-* Documentação sobre plugins e formatos suportados.
+* Comunidade LMMS.
 * Literatura sobre tecnologias digitais aplicadas à Educação Musical.
-
----
-
-# Histórico da ficha
-
-**Versão 1.0.0**
-
-* Primeira publicação.
-* Estrutura editorial alinhada ao padrão do REMUS Livre.
-* Revisão técnica baseada na documentação oficial do projeto.
