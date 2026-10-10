@@ -27,6 +27,8 @@ navigation:
     url: /biblioteca/
   - title: Trilhas
     url: /trilhas/
+  - title: Diário
+    url: /diario/
 
 # Plugins
 plugins:
