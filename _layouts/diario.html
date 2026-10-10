@@ -1,0 +1,34 @@
+---
+layout: default
+---
+
+<article class="diario-post">
+  <header class="diario-post-header">
+    <p class="diario-kicker">Diário de Bordo · {{ page.tipo | default: 'registro de processo' }}</p>
+    <h1>{{ page.title }}</h1>
+    {% if page.description %}<p class="diario-description">{{ page.description }}</p>{% endif %}
+    <div class="diario-meta">
+      {% if page.date %}<span>{{ page.date | date: "%d/%m/%Y" }}</span>{% endif %}
+      {% if page.experiencia %}<span>{{ page.experiencia }}</span>{% endif %}
+      {% if page.grupo %}<span>{{ page.grupo }}</span>{% endif %}
+    </div>
+  </header>
+
+  {% if page.imagem %}
+    <figure class="diario-figure">
+      <img src="{{ page.imagem | relative_url }}" alt="{{ page.imagem_alt | default: page.title }}">
+      {% if page.imagem_legenda %}<figcaption>{{ page.imagem_legenda }}</figcaption>{% endif %}
+    </figure>
+  {% endif %}
+
+  <div class="diario-post-content">
+    {{ content }}
+  </div>
+
+  {% if page.tags %}
+    <footer class="diario-tags">
+      <strong>Pistas:</strong>
+      {% for tag in page.tags %}<span>{{ tag }}</span>{% endfor %}
+    </footer>
+  {% endif %}
+</article>

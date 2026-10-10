@@ -30,6 +30,12 @@ navigation:
   - title: Diário
     url: /diario/
 
+# Coleções
+collections:
+  diario:
+    output: true
+    permalink: /diario/:name/
+
 # Plugins
 plugins:
   - jekyll-seo-tag

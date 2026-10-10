@@ -30,6 +30,26 @@ Reúna o grupo, escolha as pistas mais importantes e transforme a experiência e
 
 ---
 
+## Postagens do Diário
+
+{% assign postagens = site.diario | sort: 'date' | reverse %}
+{% if postagens.size > 0 %}
+  {% for postagem in postagens %}
+### [{{ postagem.title }}]({{ postagem.url | relative_url }})
+
+**{{ postagem.date | date: "%d/%m/%Y" }}** · {{ postagem.experiencia | default: 'Experiência do REMUS' }}{% if postagem.grupo %} · {{ postagem.grupo }}{% endif %}
+
+{{ postagem.description | default: postagem.excerpt | strip_html | truncate: 220 }}
+
+[Leia o registro →]({{ postagem.url | relative_url }})
+
+  {% endfor %}
+{% else %}
+_Novas postagens em construção._
+{% endif %}
+
+---
+
 ## O que o Diário guarda?
 
 - perguntas de partida;
@@ -44,4 +64,4 @@ Reúna o grupo, escolha as pistas mais importantes e transforme a experiência e
 
 > Durante a ação, capturar pistas. Depois da ação, construir sentido.
 
-_Esta página é uma estrutura inicial. Os textos, nomes dos botões e fluxo podem ser revisados antes de entrar no site principal._
+_Esta seção é um recurso vivo e colaborativo. Os registros podem ser adaptados, remixados e compartilhados conforme a licença do REMUS Livre._
