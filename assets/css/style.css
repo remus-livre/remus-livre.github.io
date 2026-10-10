@@ -248,6 +248,70 @@ footer a {
 }
 
 /* ============================================
+   Diário de Bordo
+   ============================================ */
+.diario-post-header {
+  border-left: 4px solid var(--remus-primary);
+  padding-left: 1rem;
+  margin-bottom: 2rem;
+}
+
+.diario-kicker {
+  color: var(--remus-primary);
+  font-size: 0.82rem;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+.diario-description {
+  color: var(--remus-text-light);
+  font-size: 1.1rem;
+}
+
+.diario-meta,
+.diario-tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  color: var(--remus-text-light);
+  font-size: 0.9rem;
+}
+
+.diario-meta span,
+.diario-tags span {
+  background: var(--remus-background);
+  border: 1px solid var(--remus-accent);
+  border-radius: 999px;
+  padding: 0.25rem 0.65rem;
+}
+
+.diario-figure {
+  margin: 1.5rem 0 2rem;
+}
+
+.diario-figure img {
+  display: block;
+  margin: 0;
+}
+
+.diario-figure figcaption {
+  color: var(--remus-text-light);
+  font-size: 0.85rem;
+  margin-top: 0.5rem;
+}
+
+.diario-post-content {
+  max-width: 760px;
+}
+
+.diario-tags {
+  border-top: 1px solid var(--remus-accent);
+  margin-top: 2rem;
+  padding-top: 1rem;
+}
+
+/* ============================================
    Responsividade
    ============================================ */
 @media (max-width: 600px) {
