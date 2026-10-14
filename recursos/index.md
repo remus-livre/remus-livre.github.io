@@ -42,6 +42,7 @@ Fichas técnicas e pedagógicas de softwares e apps para educação musical e ST
 
 - [Notação](notacao.md) – Guia sobre leitura e escrita musical.
 - [Produção Sonora](producao-sonora.md) – Roteiros e projetos para criação musical.
+- [Fabrincando Sons com o Violão](fabrincando-sons-com-o-violao.md) – Método de iniciação ao violão para crianças, com notação visual adaptada e recursos audiovisuais.
 
 ---
 
