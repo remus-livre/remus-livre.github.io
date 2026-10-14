@@ -9,12 +9,12 @@
 </head>
 <body>
 
-  <header>
+  <header class="site-header">
     <h1>{{ site.title }}</h1>
     <p>{{ site.description }}</p>
   </header>
 
-  <nav>
+  <nav class="site-nav">
     {% for item in site.navigation %}
       <a href="{{ item.url | relative_url }}">{{ item.title }}</a>
     {% endfor %}
@@ -24,7 +24,7 @@
     {{ content }}
   </main>
 
-  <footer>
+  <footer class="site-footer">
     <p>&copy; {{ site.time | date: '%Y' }} {{ site.title }}. Licença Creative Commons BY-SA 4.0.</p>
   </footer>
 
