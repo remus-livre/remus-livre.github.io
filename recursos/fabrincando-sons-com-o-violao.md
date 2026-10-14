@@ -2,15 +2,23 @@
 layout: default
 title: Fabrincando Sons com o Violão
 description: Método de iniciação ao violão para crianças, com notação visual adaptada, repertório brasileiro e recursos audiovisuais de apoio.
----
+<article class="recurso-page" markdown="1">
+<header class="recurso-hero">
+<p class="recurso-kicker">Material de apoio · Iniciação instrumental</p>
+<h1>Fabrincando Sons com o Violão</h1>
+<p class="recurso-lead">Um método prático de iniciação ao violão que articula corpo, escuta, repertório, notação visual e acompanhamento audiovisual.</p>
+<div class="recurso-meta">
+<span>5–11 anos</span>
+<span>Violão</span>
+<span>PDF + vídeos</span>
+<span>Fábio Ramos</span>
+</div>
+</header>
 
-# Fabrincando Sons com o Violão
-
-**Método prático de iniciação ao violão para crianças, professores e famílias.**
-
-> Um percurso de aproximação ao instrumento que articula corpo, escuta, repertório, notação visual e acompanhamento audiovisual.
-
----
+<div class="recurso-sinal">
+<span class="recurso-sinal-fruta">●</span>
+<span>do símbolo ao gesto, do gesto ao som</span>
+</div>
 
 ## Sobre o material
 
@@ -167,3 +175,5 @@ Para usos além do acesso e da divulgação autorizada do método, recomenda-se 
 *Fabrincando Sons com o Violão* amplia a ideia de recurso educacional ao mostrar que a iniciação instrumental pode combinar pesquisa acadêmica, experiência docente, repertório cultural e tecnologias audiovisuais simples.
 
 O método não apresenta o violão como uma caixa-preta. Ele cria aproximações graduais entre corpo, corda, símbolo, canção e escuta. Nesse percurso, a criança não apenas reproduz uma sequência: começa a construir uma relação própria com o instrumento.
+
+</article>
