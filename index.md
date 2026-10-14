@@ -3,11 +3,11 @@ layout: default
 title: REMUS Livre
 ---
 
-# REMUS Livre
-
-**Repositório de Educação Musical, Recursos Educacionais Abertos e Uso de Software Livre**
-
-> "Tecnologias abertas para uma Educação Musical criativa, colaborativa e inclusiva."
+<section class="home-hero">
+<p class="home-kicker">Repositório de Educação Musical · Recursos Abertos</p>
+<h1>REMUS Livre</h1>
+<p class="home-lead">Tecnologias abertas para uma Educação Musical criativa, colaborativa e inclusiva.</p>
+</section>
 
 ---
 
@@ -32,28 +32,31 @@ Nossa curadoria é orientada por quatro núcleos epistemológicos:
 
 O REMUS Livre está organizado em **quatro camadas complementares**, que se articulam para oferecer uma experiência completa de curadoria, prática e reflexão:
 
-### 📚 [Recursos](recursos/)
+<div class="home-grid">
+<article class="home-card">
+<h2>📚 <a href="recursos/">Recursos</a></h2>
+<p>Fichas técnicas e pedagógicas de softwares, métodos, instrumentos e materiais para Educação Musical e STEAM.</p>
+</article>
 
-Fichas técnicas e pedagógicas de softwares e apps para educação musical e STEAM. Os recursos estão organizados nas seguintes categorias:
+<article class="home-card">
+<h2>🧪 <a href="experiencias/">Experiências</a></h2>
+<p>Relatos, sequências didáticas e roteiros práticos para experimentar, construir e compartilhar.</p>
+</article>
 
-- 🎼 **Notação Musical** – MuseScore, LilyPond, TuxGuitar
-- 🎛️ **Produção e Edição de Áudio** – Audacity, LMMS, Ardour, Hydrogen
-- 🎛️ **NIME (Novas Interfaces para Expressão Musical)** – Arduino, Theremin de Luz, Pure Data, VCV Rack, SuperCollider, Sensores
-- 🤖 **IA Musical** – Moises, AIVA, Magenta
-- 🧠 **STEAM** – Sonic Pi, GCompris, GNU Solfege
-- 📚 **Educação Musical Geral** – GNU Solfege, GCompris, LenMus
+<article class="home-card">
+<h2>📖 <a href="biblioteca/">Biblioteca</a></h2>
+<p>Textos e referências para aprofundar os fundamentos pedagógicos, técnicos e políticos do REMUS.</p>
+</article>
 
-### 🧪 [Experiências](experiencias/)
+<article class="home-card">
+<h2>🧭 <a href="trilhas/">Trilhas</a></h2>
+<p>Percursos que articulam recursos, experiências e fundamentos em sequências de aprendizagem.</p>
+</article>
+</div>
 
-Relatos, sequências didáticas e roteiros práticos desenvolvidos no REMUS Livre. Inclui propostas como o Ecossistema de Portfólio Sonoro STEAM, o Jogo "O Enigma das Frequências", a DAW Minimalista "Luthieria Digital", a Sequência Didática "Do Enigma à NIME", o Theremin de Luz e o Diário de Bordo.
+<h2 class="home-section-title">O que você pode fazer aqui</h2>
 
-### 📖 [Biblioteca](biblioteca/)
-
-Base teórica comentada e documentos para aprofundamento nos fundamentos do REMUS Livre. Inclui textos sobre a BNCC, Freire, Papert, Resnick e Simondon.
-
-### 🧭 [Trilhas](trilhas/)
-
-Roteiros sugeridos por objetivos pedagógicos, que articulam recursos, experiências e fundamentos em percursos de aprendizagem coerentes.
+<p>Você pode partir de um recurso, experimentar uma prática, registrar o processo no <a href="diario/">Diário de Bordo</a> e construir uma nova trilha com outras pessoas.</p>
 
 ---
 
