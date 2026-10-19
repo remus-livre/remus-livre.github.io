@@ -139,4 +139,26 @@ As experiências aqui documentadas são fruto da pesquisa de doutorado e do arti
 
 ---
 
+### 🎸 Fabrincando Sons com o Violão
+
+> Experiência de iniciação instrumental que aproxima criança, violão, símbolos visuais, repertório e playback interativo.
+
+**Objetivo:** Vivenciar os primeiros contatos com o violão por meio de uma notação relacionada ao universo infantil, desenvolvendo escuta, ritmo, percepção harmônica e autoria musical.
+
+**Percurso:** Corpo e postura → cordas → símbolos → gesto → playback → escuta → registro.
+
+**Material-base:** Método *Fabrincando Sons com o Violão*, de Fábio Ramos, com orientação e supervisão do Prof. Dr. Fernando Rodrigues e ilustrações de Letícia Mara.
+
+**Conexões STEAM:**
+- **Artes:** repertório, interpretação, canto e expressão musical;
+- **Tecnologia:** vídeos de acompanhamento, QR Codes e recursos audiovisuais;
+- **Corpo e percepção:** coordenação, pulso, escuta e relação entre gesto e som;
+- **Linguagem:** leitura de símbolos, letras, cifras e tablaturas.
+
+**Materializa:** A passagem de uma representação próxima do cotidiano para a compreensão progressiva do instrumento e da autoria musical.
+
+[Abrir a experiência Fabrincando Sons com o Violão](fabrincando-sons-com-o-violao.md)
+
+---
+
 *Mais experiências em desenvolvimento.*
