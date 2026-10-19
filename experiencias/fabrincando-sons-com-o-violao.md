@@ -3,9 +3,9 @@ layout: default
 title: Fabrincando Sons com o Violão
 description: Método de iniciação ao violão para crianças, com notação visual adaptada, repertório brasileiro e recursos audiovisuais de apoio.
 ---
-<article class="recurso-page" markdown="1">
-<header class="recurso-hero">
-<p class="recurso-kicker">Material de apoio · Iniciação instrumental</p>
+<article class="experiencia-page recurso-page" markdown="1">
+<header class="recurso-hero experiencia-hero">
+<p class="recurso-kicker">Experiência pedagógica · Iniciação instrumental</p>
 <h1>Fabrincando Sons com o Violão</h1>
 <p class="recurso-lead">Um método prático de iniciação ao violão que articula corpo, escuta, repertório, notação visual e acompanhamento audiovisual.</p>
 <div class="recurso-meta">
@@ -26,11 +26,11 @@ description: Método de iniciação ao violão para crianças, com notação vis
 <figcaption>Ilustração editorial criada para apresentar o universo do método; não é um registro documental de uma aula.</figcaption>
 </figure>
 
-## Sobre o material
+## Sobre a experiência
 
-*Fabrincando Sons com o Violão* é um método prático de ensino de violão indicado principalmente para crianças entre **5 e 11 anos**. O material foi desenvolvido por **Fábio Ramos** a partir de uma pesquisa acadêmica no Mestrado Profissional em Educação Musical da Universidade do Estado de Minas Gerais (UEMG) e de sua experiência de mais de dez anos como professor de violão.
+*Fabrincando Sons com o Violão* entra no REMUS como uma experiência pedagógica de iniciação instrumental, indicada principalmente para crianças entre **5 e 11 anos**. O método é o material-base da experiência e foi desenvolvido por **Fábio Ramos** a partir de uma pesquisa acadêmica no Mestrado Profissional em Educação Musical da Universidade do Estado de Minas Gerais (UEMG) e de sua experiência de mais de dez anos como professor de violão.
 
-O método reúne orientações para os primeiros contatos com o instrumento, atividades progressivas, repertório de canções populares, cantigas de roda e músicas autorais. Seu objetivo não é apenas apoiar a execução de músicas, mas também favorecer o desenvolvimento do senso rítmico, da percepção harmônica e de uma relação significativa com o violão.
+A experiência reúne preparação corporal, exploração das cordas, atividades progressivas, repertório de canções populares, cantigas de roda e músicas autorais. Seu objetivo não é apenas apoiar a execução de músicas, mas favorecer o desenvolvimento do senso rítmico, da percepção harmônica e de uma relação significativa com o violão.
 
 ## O que torna o método diferente
 
@@ -89,7 +89,7 @@ O método reúne cantigas, canções populares brasileiras, músicas de diferent
 - Alecrim Dourado;
 - O Cravo Brigou com a Rosa.
 
-A ficha do REMUS não substitui a consulta aos créditos e às condições de uso indicadas no método e aplicáveis a cada obra musical.
+A experiência do REMUS não substitui a consulta aos créditos e às condições de uso indicadas no método e aplicáveis a cada obra musical.
 
 ## Playback interativo e QR Codes
 
@@ -103,9 +103,9 @@ O andamento dos vídeos pode ser ajustado no próprio player, permitindo estudar
 
 O recurso audiovisual é complementar. O método também pode ser utilizado em formato impresso, especialmente em contextos com acesso limitado à internet.
 
-## Aplicações na Educação Musical
+## Intencionalidade pedagógica
 
-O material pode apoiar:
+Esta experiência pode apoiar:
 
 - iniciação instrumental;
 - musicalização infantil;
@@ -155,9 +155,9 @@ Durante o uso do método, o estudante ou o grupo pode registrar:
 
 O registro não precisa interromper a prática. Uma palavra, uma marcação, um áudio curto ou uma conversa ao final da aula já pode preservar uma pista do processo.
 
-## Aspectos técnicos
+## Material-base e condições de uso
 
-- **Categoria:** recurso pedagógico / método de iniciação instrumental;
+- **Tipo:** experiência pedagógica com método de iniciação instrumental;
 - **Instrumento:** violão;
 - **Público principal:** crianças de 5 a 11 anos;
 - **Formato:** PDF com recursos audiovisuais acessados por QR Codes;
@@ -176,11 +176,11 @@ O registro não precisa interromper a prática. Uma palavra, uma marcação, um 
 
 ## Acesso ao método completo
 
-A ficha pública está sendo incorporada ao catálogo do REMUS Livre. O arquivo completo do método e os links audiovisuais serão disponibilizados em uma etapa própria, após a organização dos arquivos e a confirmação das condições de distribuição.
+O método é o material-base desta experiência. O arquivo completo e os links audiovisuais serão disponibilizados em uma etapa própria, após a organização dos arquivos e a confirmação das condições de distribuição.
 
 ## Direitos e autorização
 
-Esta ficha é publicada no REMUS Livre com autorização do autor para divulgação do recurso.
+Esta experiência é publicada no REMUS Livre com autorização do autor para divulgação do método e de sua proposta pedagógica.
 
 A autorização para publicar o método não deve ser interpretada automaticamente como uma licença de domínio público ou como autorização para reutilizar separadamente todos os textos, ilustrações, gravações, vídeos e obras musicais presentes no material. As obras de terceiros mantêm seus respectivos direitos autorais e devem ser utilizadas conforme a legislação e as condições aplicáveis.
 
