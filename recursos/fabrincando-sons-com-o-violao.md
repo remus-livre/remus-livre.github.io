@@ -2,6 +2,7 @@
 layout: default
 title: Fabrincando Sons com o Violão
 description: Método de iniciação ao violão para crianças, com notação visual adaptada, repertório brasileiro e recursos audiovisuais de apoio.
+---
 <article class="recurso-page" markdown="1">
 <header class="recurso-hero">
 <p class="recurso-kicker">Material de apoio · Iniciação instrumental</p>
@@ -20,6 +21,11 @@ description: Método de iniciação ao violão para crianças, com notação vis
 <span>do símbolo ao gesto, do gesto ao som</span>
 </div>
 
+<figure class="recurso-figure recurso-figure-hero">
+<img src="{{ '/imagens/recursos/fabrincando-hero.png' | relative_url }}" alt="Violão, folhas de estudo com símbolos de frutas e fones de ouvido sobre uma mesa clara">
+<figcaption>Ilustração editorial criada para apresentar o universo do método; não é um registro documental de uma aula.</figcaption>
+</figure>
+
 ## Sobre o material
 
 *Fabrincando Sons com o Violão* é um método prático de ensino de violão indicado principalmente para crianças entre **5 e 11 anos**. O material foi desenvolvido por **Fábio Ramos** a partir de uma pesquisa acadêmica no Mestrado Profissional em Educação Musical da Universidade do Estado de Minas Gerais (UEMG) e de sua experiência de mais de dez anos como professor de violão.
@@ -31,6 +37,11 @@ O método reúne orientações para os primeiros contatos com o instrumento, ati
 O material utiliza uma **simbologia própria**, relacionada ao universo cotidiano infantil, para apoiar a compreensão inicial das cordas e dos gestos instrumentais. As frutas funcionam como referências visuais para a leitura e ajudam a aproximar a notação da experiência da criança.
 
 O método também inclui o recurso de **playback interativo**. Cada canção pode ser acompanhada por vídeos em diferentes níveis de dificuldade, acessados pelos QR Codes presentes nas páginas do material. Dessa forma, a criança pode tocar acompanhando uma referência audiovisual que apresenta o trecho a ser executado.
+
+<figure class="recurso-figure recurso-figure-processo">
+<img src="{{ '/imagens/recursos/fabrincando-aprendizagem.png' | relative_url }}" alt="Pessoa adulta acompanhando uma criança que toca violão com um caderno de símbolos visuais">
+<figcaption>Ilustração editorial da mediação entre professor, estudante, instrumento e material.</figcaption>
+</figure>
 
 ## Como o método está organizado
 
@@ -49,6 +60,11 @@ O livro percorre diferentes etapas da iniciação ao violão:
 - cronograma de estudos.
 
 A estrutura não precisa ser aplicada de maneira estritamente linear. O professor pode selecionar capítulos e repertórios conforme a idade, o nível de experiência, o contexto da turma e os objetivos da aula.
+
+<figure class="recurso-figure recurso-figure-simbolos">
+<img src="{{ '/imagens/recursos/fabrincando-simbolos.png' | relative_url }}" alt="Símbolos coloridos conectados por linhas às cordas de um violão e a uma onda sonora">
+<figcaption>Ilustração conceitual do percurso: símbolo, corda, gesto e som.</figcaption>
+</figure>
 
 ## Repertório
 

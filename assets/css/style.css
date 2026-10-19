@@ -515,6 +515,29 @@ img {
   margin: 2.5rem 0;
 }
 
+.recurso-figure {
+  margin: 2rem 0 2.5rem;
+}
+
+.recurso-figure img {
+  border-radius: 10px;
+  display: block;
+  margin: 0;
+  width: 100%;
+}
+
+.recurso-figure figcaption {
+  color: var(--remus-text-light);
+  font-size: 0.82rem;
+  margin-top: 0.55rem;
+}
+
+.recurso-figure-simbolos {
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 560px;
+}
+
 /* ============================================
    Responsividade
    ============================================ */
