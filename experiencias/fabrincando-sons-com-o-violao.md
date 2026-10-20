@@ -176,7 +176,11 @@ O registro não precisa interromper a prática. Uma palavra, uma marcação, um 
 
 ## Acesso ao método completo
 
-O método é o material-base desta experiência. O arquivo completo e os links audiovisuais serão disponibilizados em uma etapa própria, após a organização dos arquivos e a confirmação das condições de distribuição.
+O método é o material-base desta experiência e está disponível para leitura e download:
+
+[Baixar o método completo em PDF](../arquivos/metodos/fabrincando-sons-com-o-violao.pdf)
+
+O arquivo foi disponibilizado no REMUS Livre com autorização do autor. Os QR Codes presentes no PDF podem direcionar para conteúdos audiovisuais externos, mantidos nas plataformas indicadas no próprio método.
 
 ## Direitos e autorização
 
