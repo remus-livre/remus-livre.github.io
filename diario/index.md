@@ -28,6 +28,12 @@ Reúna o grupo, escolha as pistas mais importantes e transforme a experiência e
 
 [Construir a síntese](sintese.html)
 
+### Escrever uma postagem em texto
+
+Depois da ação, transforme as pistas em um relato completo. Use o modelo para registrar o contexto, a pergunta de partida, as tentativas, o que aconteceu, as descobertas e a próxima pergunta.
+
+[Abrir o modelo de postagem textual](modelo-postagem.html)
+
 ---
 
 ## Postagens do Diário
