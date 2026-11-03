@@ -15,4 +15,4 @@ Roteiros sugeridos por objetivos pedagógicos, integrando recursos, experiência
 
 ---
 
-*Novas trilhas em desenvolvimento.*
+*As trilhas podem ser adaptadas, combinadas e ampliadas a partir dos registros do Diário de Bordo.*
