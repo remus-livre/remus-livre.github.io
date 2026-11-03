@@ -5,7 +5,7 @@ title: Biblioteca
 
 # Biblioteca
 
-Base teórica comentada e documentos para aprofundamento nos fundamentos do REMUS Livre.
+Base teórica comentada e documentos para aprofundamento nos fundamentos pedagógicos, técnicos e políticos do REMUS Livre.
 
 ## Documentos
 
@@ -17,4 +17,4 @@ Base teórica comentada e documentos para aprofundamento nos fundamentos do REMU
 
 ---
 
-*Esta seção está em construção. Novos documentos serão adicionados em breve.*
+*A Biblioteca é um espaço vivo: os textos podem ser ampliados com novas referências, experiências e leituras críticas.*
