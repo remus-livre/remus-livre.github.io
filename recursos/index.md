@@ -35,8 +35,9 @@ Fichas técnicas e pedagógicas de softwares e apps para educação musical e ST
 ### 🧠 Pensamento Computacional e STEAM
 
 - [Sonic Pi](sonicpi.md) – Live coding musical com Ruby.
-- [GCompris](gcompris.md) – Atividades educacionais lúdicas com foco em música.
 - [GNU Solfege](gnusolfegesonic-pi.md) – Treinamento auditivo e percepção musical.
+
+O GCompris foi reenquadrado na categoria [Jogos](../jogos/), onde sua dimensão de jogo e atividade educacional fica mais visível.
 
 ### 📚 Materiais de Apoio
 
