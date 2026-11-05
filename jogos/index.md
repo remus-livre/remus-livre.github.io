@@ -26,9 +26,25 @@ Cada ficha informa faixa etária aproximada, duração, formato, necessidade de 
 
 - [Scratch](scratch.md) — ambiente de programação criativa para criar jogos, histórias, animações e projetos sonoros.
 
+### Jogos de escuta e percepção
+
+- [Bingo dos Sons](bingo-dos-sons.md) — reconhecimento, comparação e descrição de sons do ambiente e da criação musical.
+
+### Jogos musicais presenciais
+
+- [Orquestra de Gestos](orquestra-de-gestos.md) — criação coletiva de regras sonoras com corpo, voz, objetos e escuta.
+
+### Jogos analógicos e de baixo custo
+
+- [Cartas de Ritmo](cartas-de-ritmo.md) — composição coletiva com padrões, pausas e transformações.
+
+### Desafios e experiências gamificadas
+
+- [O Enigma das Frequências](enigma-das-frequencias.md) — investigação de acústica em três fases, com objetos cotidianos e protótipos sonoros.
+
 ## Categorias em expansão
 
-A seção será ampliada com jogos de escuta e percepção, jogos musicais presenciais, jogos analógicos de baixo custo, jogos STEAM e experiências gamificadas desenvolvidas no próprio REMUS.
+A seção continuará recebendo jogos STEAM, propostas de baixa tecnologia e experiências gamificadas desenvolvidas no próprio REMUS.
 
 ## Escolher um jogo para a turma
 
