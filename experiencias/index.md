@@ -32,6 +32,8 @@ As experiências aqui documentadas são fruto da pesquisa de doutorado e do arti
 
 ### 🎮 Jogo: "O Enigma das Frequências"
 
+[Abrir ficha completa do jogo e da sequência de investigação →](../jogos/enigma-das-frequencias.md)
+
 > Atividade gamificada em três fases que promove a investigação da física acústica por meio de objetos cotidianos e softwares de análise espectral.
 
 **Objetivo:** Investigar conceitos de acústica (frequência, altura, ressonância e timbre) de forma lúdica e colaborativa.
