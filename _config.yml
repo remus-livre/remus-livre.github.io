@@ -23,6 +23,8 @@ navigation:
     url: /recursos/
   - title: Experiências
     url: /experiencias/
+  - title: Jogos
+    url: /jogos/
   - title: Biblioteca
     url: /biblioteca/
   - title: Trilhas
